@@ -1,0 +1,2942 @@
+[
+   {
+     "model": "landman.country",
+     "pk": 1,
+     "fields": {
+        "code": "AD",
+        "abbreviation": "AD",
+        "name": "Andorra",
+        "update_date": "2021-03-21",
+        "update_user": 1,
+        "hidden": true
+     }
+  },
+   {
+     "model": "landman.country",
+     "pk": 2,
+     "fields": {
+        "code": "AE",
+        "abbreviation": "AE",
+        "name": "United Arab Emirates",
+        "update_date": "2021-03-21",
+        "update_user": 1,
+        "hidden": true
+     }
+  },
+   {
+     "model": "landman.country",
+     "pk": 3,
+     "fields": {
+        "code": "AF",
+        "abbreviation": "AF",
+        "name": "Afghanistan",
+        "update_date": "2021-03-21",
+        "update_user": 1,
+        "hidden": true
+     }
+  },
+   {
+     "model": "landman.country",
+     "pk": 4,
+     "fields": {
+        "code": "AG",
+        "abbreviation": "AG",
+        "name": "Antigua and Barbuda",
+        "update_date": "2021-03-21",
+        "update_user": 1,
+        "hidden": true
+     }
+  },
+   {
+     "model": "landman.country",
+     "pk": 5,
+     "fields": {
+        "code": "AI",
+        "abbreviation": "AI",
+        "name": "Anguilla",
+        "update_date": "2021-03-21",
+        "update_user": 1,
+        "hidden": true
+     }
+  },
+   {
+     "model": "landman.country",
+     "pk": 6,
+     "fields": {
+        "code": "AL",
+        "abbreviation": "AL",
+        "name": "Albania",
+        "update_date": "2021-03-21",
+        "update_user": 1,
+        "hidden": true
+     }
+  },
+   {
+     "model": "landman.country",
+     "pk": 7,
+     "fields": {
+        "code": "AM",
+        "abbreviation": "AM",
+        "name": "Armenia",
+        "update_date": "2021-03-21",
+        "update_user": 1,
+        "hidden": true
+     }
+  },
+   {
+     "model": "landman.country",
+     "pk": 8,
+     "fields": {
+        "code": "AN",
+        "abbreviation": "AN",
+        "name": "Netherlands Antilles",
+        "update_date": "2021-03-21",
+        "update_user": 1,
+        "hidden": true
+     }
+  },
+   {
+     "model": "landman.country",
+     "pk": 9,
+     "fields": {
+        "code": "AO",
+        "abbreviation": "AO",
+        "name": "Angola",
+        "update_date": "2021-03-21",
+        "update_user": 1,
+        "hidden": true
+     }
+  },
+   {
+     "model": "landman.country",
+     "pk": 10,
+     "fields": {
+        "code": "AQ",
+        "abbreviation": "AQ",
+        "name": "Antarctica",
+        "update_date": "2021-03-21",
+        "update_user": 1,
+        "hidden": true
+     }
+  },
+   {
+     "model": "landman.country",
+     "pk": 11,
+     "fields": {
+        "code": "AR",
+        "abbreviation": "AR",
+        "name": "Argentina",
+        "update_date": "2021-03-21",
+        "update_user": 1,
+        "hidden": true
+     }
+  },
+   {
+     "model": "landman.country",
+     "pk": 12,
+     "fields": {
+        "code": "AS",
+        "abbreviation": "AS",
+        "name": "American Samoa",
+        "update_date": "2021-03-21",
+        "update_user": 1,
+        "hidden": true
+     }
+  },
+   {
+     "model": "landman.country",
+     "pk": 13,
+     "fields": {
+        "code": "AT",
+        "abbreviation": "AT",
+        "name": "Austria",
+        "update_date": "2021-03-21",
+        "update_user": 1,
+        "hidden": true
+     }
+  },
+   {
+     "model": "landman.country",
+     "pk": 14,
+     "fields": {
+        "code": "AU",
+        "abbreviation": "AU",
+        "name": "Australia",
+        "update_date": "2021-03-21",
+        "update_user": 1,
+        "hidden": true
+     }
+  },
+   {
+     "model": "landman.country",
+     "pk": 15,
+     "fields": {
+        "code": "AW",
+        "abbreviation": "AW",
+        "name": "Aruba",
+        "update_date": "2021-03-21",
+        "update_user": 1,
+        "hidden": true
+     }
+  },
+   {
+     "model": "landman.country",
+     "pk": 16,
+     "fields": {
+        "code": "AZ",
+        "abbreviation": "AZ",
+        "name": "Azerbaijan",
+        "update_date": "2021-03-21",
+        "update_user": 1,
+        "hidden": true
+     }
+  },
+   {
+     "model": "landman.country",
+     "pk": 17,
+     "fields": {
+        "code": "BA",
+        "abbreviation": "BA",
+        "name": "Bosnia and Herzegovina",
+        "update_date": "2021-03-21",
+        "update_user": 1,
+        "hidden": true
+     }
+  },
+   {
+     "model": "landman.country",
+     "pk": 18,
+     "fields": {
+        "code": "BB",
+        "abbreviation": "BB",
+        "name": "Barbados",
+        "update_date": "2021-03-21",
+        "update_user": 1,
+        "hidden": true
+     }
+  },
+   {
+     "model": "landman.country",
+     "pk": 19,
+     "fields": {
+        "code": "BD",
+        "abbreviation": "BD",
+        "name": "Bangladesh",
+        "update_date": "2021-03-21",
+        "update_user": 1,
+        "hidden": true
+     }
+  },
+   {
+     "model": "landman.country",
+     "pk": 20,
+     "fields": {
+        "code": "BE",
+        "abbreviation": "BE",
+        "name": "Belgium",
+        "update_date": "2021-03-21",
+        "update_user": 1,
+        "hidden": true
+     }
+  },
+   {
+     "model": "landman.country",
+     "pk": 21,
+     "fields": {
+        "code": "BF",
+        "abbreviation": "BF",
+        "name": "Burkina Faso",
+        "update_date": "2021-03-21",
+        "update_user": 1,
+        "hidden": true
+     }
+  },
+   {
+     "model": "landman.country",
+     "pk": 22,
+     "fields": {
+        "code": "BG",
+        "abbreviation": "BG",
+        "name": "Bulgaria",
+        "update_date": "2021-03-21",
+        "update_user": 1,
+        "hidden": true
+     }
+  },
+   {
+     "model": "landman.country",
+     "pk": 23,
+     "fields": {
+        "code": "BH",
+        "abbreviation": "BH",
+        "name": "Bahrain",
+        "update_date": "2021-03-21",
+        "update_user": 1,
+        "hidden": true
+     }
+  },
+   {
+     "model": "landman.country",
+     "pk": 24,
+     "fields": {
+        "code": "BI",
+        "abbreviation": "BI",
+        "name": "Burundi",
+        "update_date": "2021-03-21",
+        "update_user": 1,
+        "hidden": true
+     }
+  },
+   {
+     "model": "landman.country",
+     "pk": 25,
+     "fields": {
+        "code": "BJ",
+        "abbreviation": "BJ",
+        "name": "Benin",
+        "update_date": "2021-03-21",
+        "update_user": 1,
+        "hidden": true
+     }
+  },
+   {
+     "model": "landman.country",
+     "pk": 26,
+     "fields": {
+        "code": "BM",
+        "abbreviation": "BM",
+        "name": "Bermuda",
+        "update_date": "2021-03-21",
+        "update_user": 1,
+        "hidden": true
+     }
+  },
+   {
+     "model": "landman.country",
+     "pk": 27,
+     "fields": {
+        "code": "BN",
+        "abbreviation": "BN",
+        "name": "Brunei",
+        "update_date": "2021-03-21",
+        "update_user": 1,
+        "hidden": true
+     }
+  },
+   {
+     "model": "landman.country",
+     "pk": 28,
+     "fields": {
+        "code": "BO",
+        "abbreviation": "BO",
+        "name": "Bolivia",
+        "update_date": "2021-03-21",
+        "update_user": 1,
+        "hidden": true
+     }
+  },
+   {
+     "model": "landman.country",
+     "pk": 29,
+     "fields": {
+        "code": "BR",
+        "abbreviation": "BR",
+        "name": "Brazil",
+        "update_date": "2021-03-21",
+        "update_user": 1,
+        "hidden": true
+     }
+  },
+   {
+     "model": "landman.country",
+     "pk": 30,
+     "fields": {
+        "code": "BS",
+        "abbreviation": "BS",
+        "name": "Bahamas",
+        "update_date": "2021-03-21",
+        "update_user": 1,
+        "hidden": true
+     }
+  },
+   {
+     "model": "landman.country",
+     "pk": 31,
+     "fields": {
+        "code": "BT",
+        "abbreviation": "BT",
+        "name": "Bhutan",
+        "update_date": "2021-03-21",
+        "update_user": 1,
+        "hidden": true
+     }
+  },
+   {
+     "model": "landman.country",
+     "pk": 32,
+     "fields": {
+        "code": "BV",
+        "abbreviation": "BV",
+        "name": "Bouvet Island",
+        "update_date": "2021-03-21",
+        "update_user": 1,
+        "hidden": true
+     }
+  },
+   {
+     "model": "landman.country",
+     "pk": 33,
+     "fields": {
+        "code": "BW",
+        "abbreviation": "BW",
+        "name": "Botswana",
+        "update_date": "2021-03-21",
+        "update_user": 1,
+        "hidden": true
+     }
+  },
+   {
+     "model": "landman.country",
+     "pk": 34,
+     "fields": {
+        "code": "BY",
+        "abbreviation": "BY",
+        "name": "Belarus",
+        "update_date": "2021-03-21",
+        "update_user": 1,
+        "hidden": true
+     }
+  },
+   {
+     "model": "landman.country",
+     "pk": 35,
+     "fields": {
+        "code": "BZ",
+        "abbreviation": "BZ",
+        "name": "Belize",
+        "update_date": "2021-03-21",
+        "update_user": 1,
+        "hidden": true
+     }
+  },
+   {
+     "model": "landman.country",
+     "pk": 36,
+     "fields": {
+        "code": "CA",
+        "abbreviation": "CA",
+        "name": "Canada",
+        "update_date": "2021-03-21",
+        "update_user": 1,
+        "hidden": false
+     }
+  },
+   {
+     "model": "landman.country",
+     "pk": 37,
+     "fields": {
+        "code": "CC",
+        "abbreviation": "CC",
+        "name": "Cocos [Keeling] Islands",
+        "update_date": "2021-03-21",
+        "update_user": 1,
+        "hidden": true
+     }
+  },
+   {
+     "model": "landman.country",
+     "pk": 38,
+     "fields": {
+        "code": "CD",
+        "abbreviation": "CD",
+        "name": "Congo [DRC]",
+        "update_date": "2021-03-21",
+        "update_user": 1,
+        "hidden": true
+     }
+  },
+   {
+     "model": "landman.country",
+     "pk": 39,
+     "fields": {
+        "code": "CF",
+        "abbreviation": "CF",
+        "name": "Central African Republic",
+        "update_date": "2021-03-21",
+        "update_user": 1,
+        "hidden": true
+     }
+  },
+   {
+     "model": "landman.country",
+     "pk": 40,
+     "fields": {
+        "code": "CG",
+        "abbreviation": "CG",
+        "name": "Congo [Republic]",
+        "update_date": "2021-03-21",
+        "update_user": 1,
+        "hidden": true
+     }
+  },
+   {
+     "model": "landman.country",
+     "pk": 41,
+     "fields": {
+        "code": "CH",
+        "abbreviation": "CH",
+        "name": "Switzerland",
+        "update_date": "2021-03-21",
+        "update_user": 1,
+        "hidden": true
+     }
+  },
+   {
+     "model": "landman.country",
+     "pk": 42,
+     "fields": {
+        "code": "CI",
+        "abbreviation": "CI",
+        "name": "Côte d'Ivoire",
+        "update_date": "2021-03-21",
+        "update_user": 1,
+        "hidden": true
+     }
+  },
+   {
+     "model": "landman.country",
+     "pk": 43,
+     "fields": {
+        "code": "CK",
+        "abbreviation": "CK",
+        "name": "Cook Islands",
+        "update_date": "2021-03-21",
+        "update_user": 1,
+        "hidden": true
+     }
+  },
+   {
+     "model": "landman.country",
+     "pk": 44,
+     "fields": {
+        "code": "CL",
+        "abbreviation": "CL",
+        "name": "Chile",
+        "update_date": "2021-03-21",
+        "update_user": 1,
+        "hidden": true
+     }
+  },
+   {
+     "model": "landman.country",
+     "pk": 45,
+     "fields": {
+        "code": "CM",
+        "abbreviation": "CM",
+        "name": "Cameroon",
+        "update_date": "2021-03-21",
+        "update_user": 1,
+        "hidden": true
+     }
+  },
+   {
+     "model": "landman.country",
+     "pk": 46,
+     "fields": {
+        "code": "CN",
+        "abbreviation": "CN",
+        "name": "China",
+        "update_date": "2021-03-21",
+        "update_user": 1,
+        "hidden": true
+     }
+  },
+   {
+     "model": "landman.country",
+     "pk": 47,
+     "fields": {
+        "code": "CO",
+        "abbreviation": "CO",
+        "name": "Colombia",
+        "update_date": "2021-03-21",
+        "update_user": 1,
+        "hidden": true
+     }
+  },
+   {
+     "model": "landman.country",
+     "pk": 48,
+     "fields": {
+        "code": "CR",
+        "abbreviation": "CR",
+        "name": "Costa Rica",
+        "update_date": "2021-03-21",
+        "update_user": 1,
+        "hidden": true
+     }
+  },
+   {
+     "model": "landman.country",
+     "pk": 49,
+     "fields": {
+        "code": "CU",
+        "abbreviation": "CU",
+        "name": "Cuba",
+        "update_date": "2021-03-21",
+        "update_user": 1,
+        "hidden": true
+     }
+  },
+   {
+     "model": "landman.country",
+     "pk": 50,
+     "fields": {
+        "code": "CV",
+        "abbreviation": "CV",
+        "name": "Cape Verde",
+        "update_date": "2021-03-21",
+        "update_user": 1,
+        "hidden": true
+     }
+  },
+   {
+     "model": "landman.country",
+     "pk": 51,
+     "fields": {
+        "code": "CX",
+        "abbreviation": "CX",
+        "name": "Christmas Island",
+        "update_date": "2021-03-21",
+        "update_user": 1,
+        "hidden": true
+     }
+  },
+   {
+     "model": "landman.country",
+     "pk": 52,
+     "fields": {
+        "code": "CY",
+        "abbreviation": "CY",
+        "name": "Cyprus",
+        "update_date": "2021-03-21",
+        "update_user": 1,
+        "hidden": true
+     }
+  },
+   {
+     "model": "landman.country",
+     "pk": 53,
+     "fields": {
+        "code": "CZ",
+        "abbreviation": "CZ",
+        "name": "Czech Republic",
+        "update_date": "2021-03-21",
+        "update_user": 1,
+        "hidden": true
+     }
+  },
+   {
+     "model": "landman.country",
+     "pk": 54,
+     "fields": {
+        "code": "DE",
+        "abbreviation": "DE",
+        "name": "Germany",
+        "update_date": "2021-03-21",
+        "update_user": 1,
+        "hidden": true
+     }
+  },
+   {
+     "model": "landman.country",
+     "pk": 55,
+     "fields": {
+        "code": "DJ",
+        "abbreviation": "DJ",
+        "name": "Djibouti",
+        "update_date": "2021-03-21",
+        "update_user": 1,
+        "hidden": true
+     }
+  },
+   {
+     "model": "landman.country",
+     "pk": 56,
+     "fields": {
+        "code": "DK",
+        "abbreviation": "DK",
+        "name": "Denmark",
+        "update_date": "2021-03-21",
+        "update_user": 1,
+        "hidden": true
+     }
+  },
+   {
+     "model": "landman.country",
+     "pk": 57,
+     "fields": {
+        "code": "DM",
+        "abbreviation": "DM",
+        "name": "Dominica",
+        "update_date": "2021-03-21",
+        "update_user": 1,
+        "hidden": true
+     }
+  },
+   {
+     "model": "landman.country",
+     "pk": 58,
+     "fields": {
+        "code": "DO",
+        "abbreviation": "DO",
+        "name": "Dominican Republic",
+        "update_date": "2021-03-21",
+        "update_user": 1,
+        "hidden": true
+     }
+  },
+   {
+     "model": "landman.country",
+     "pk": 59,
+     "fields": {
+        "code": "DZ",
+        "abbreviation": "DZ",
+        "name": "Algeria",
+        "update_date": "2021-03-21",
+        "update_user": 1,
+        "hidden": true
+     }
+  },
+   {
+     "model": "landman.country",
+     "pk": 60,
+     "fields": {
+        "code": "EC",
+        "abbreviation": "EC",
+        "name": "Ecuador",
+        "update_date": "2021-03-21",
+        "update_user": 1,
+        "hidden": true
+     }
+  },
+   {
+     "model": "landman.country",
+     "pk": 61,
+     "fields": {
+        "code": "EE",
+        "abbreviation": "EE",
+        "name": "Estonia",
+        "update_date": "2021-03-21",
+        "update_user": 1,
+        "hidden": true
+     }
+  },
+   {
+     "model": "landman.country",
+     "pk": 62,
+     "fields": {
+        "code": "EG",
+        "abbreviation": "EG",
+        "name": "Egypt",
+        "update_date": "2021-03-21",
+        "update_user": 1,
+        "hidden": true
+     }
+  },
+   {
+     "model": "landman.country",
+     "pk": 63,
+     "fields": {
+        "code": "EH",
+        "abbreviation": "EH",
+        "name": "Western Sahara",
+        "update_date": "2021-03-21",
+        "update_user": 1,
+        "hidden": true
+     }
+  },
+   {
+     "model": "landman.country",
+     "pk": 64,
+     "fields": {
+        "code": "ER",
+        "abbreviation": "ER",
+        "name": "Eritrea",
+        "update_date": "2021-03-21",
+        "update_user": 1,
+        "hidden": true
+     }
+  },
+   {
+     "model": "landman.country",
+     "pk": 65,
+     "fields": {
+        "code": "ES",
+        "abbreviation": "ES",
+        "name": "Spain",
+        "update_date": "2021-03-21",
+        "update_user": 1,
+        "hidden": true
+     }
+  },
+   {
+     "model": "landman.country",
+     "pk": 66,
+     "fields": {
+        "code": "ET",
+        "abbreviation": "ET",
+        "name": "Ethiopia",
+        "update_date": "2021-03-21",
+        "update_user": 1,
+        "hidden": true
+     }
+  },
+   {
+     "model": "landman.country",
+     "pk": 67,
+     "fields": {
+        "code": "FI",
+        "abbreviation": "FI",
+        "name": "Finland",
+        "update_date": "2021-03-21",
+        "update_user": 1,
+        "hidden": true
+     }
+  },
+   {
+     "model": "landman.country",
+     "pk": 68,
+     "fields": {
+        "code": "FJ",
+        "abbreviation": "FJ",
+        "name": "Fiji",
+        "update_date": "2021-03-21",
+        "update_user": 1,
+        "hidden": true
+     }
+  },
+   {
+     "model": "landman.country",
+     "pk": 69,
+     "fields": {
+        "code": "FK",
+        "abbreviation": "FK",
+        "name": "Falkland Islands [Islas Malvinas]",
+        "update_date": "2021-03-21",
+        "update_user": 1,
+        "hidden": true
+     }
+  },
+   {
+     "model": "landman.country",
+     "pk": 70,
+     "fields": {
+        "code": "FM",
+        "abbreviation": "FM",
+        "name": "Micronesia",
+        "update_date": "2021-03-21",
+        "update_user": 1,
+        "hidden": true
+     }
+  },
+   {
+     "model": "landman.country",
+     "pk": 71,
+     "fields": {
+        "code": "FO",
+        "abbreviation": "FO",
+        "name": "Faroe Islands",
+        "update_date": "2021-03-21",
+        "update_user": 1,
+        "hidden": true
+     }
+  },
+   {
+     "model": "landman.country",
+     "pk": 72,
+     "fields": {
+        "code": "FR",
+        "abbreviation": "FR",
+        "name": "France",
+        "update_date": "2021-03-21",
+        "update_user": 1,
+        "hidden": true
+     }
+  },
+   {
+     "model": "landman.country",
+     "pk": 73,
+     "fields": {
+        "code": "GA",
+        "abbreviation": "GA",
+        "name": "Gabon",
+        "update_date": "2021-03-21",
+        "update_user": 1,
+        "hidden": true
+     }
+  },
+   {
+     "model": "landman.country",
+     "pk": 74,
+     "fields": {
+        "code": "GB",
+        "abbreviation": "GB",
+        "name": "United Kingdom",
+        "update_date": "2021-03-21",
+        "update_user": 1,
+        "hidden": true
+     }
+  },
+   {
+     "model": "landman.country",
+     "pk": 75,
+     "fields": {
+        "code": "GD",
+        "abbreviation": "GD",
+        "name": "Grenada",
+        "update_date": "2021-03-21",
+        "update_user": 1,
+        "hidden": true
+     }
+  },
+   {
+     "model": "landman.country",
+     "pk": 76,
+     "fields": {
+        "code": "GE",
+        "abbreviation": "GE",
+        "name": "Georgia",
+        "update_date": "2021-03-21",
+        "update_user": 1,
+        "hidden": true
+     }
+  },
+   {
+     "model": "landman.country",
+     "pk": 77,
+     "fields": {
+        "code": "GF",
+        "abbreviation": "GF",
+        "name": "French Guiana",
+        "update_date": "2021-03-21",
+        "update_user": 1,
+        "hidden": true
+     }
+  },
+   {
+     "model": "landman.country",
+     "pk": 78,
+     "fields": {
+        "code": "GG",
+        "abbreviation": "GG",
+        "name": "Guernsey",
+        "update_date": "2021-03-21",
+        "update_user": 1,
+        "hidden": true
+     }
+  },
+   {
+     "model": "landman.country",
+     "pk": 79,
+     "fields": {
+        "code": "GH",
+        "abbreviation": "GH",
+        "name": "Ghana",
+        "update_date": "2021-03-21",
+        "update_user": 1,
+        "hidden": true
+     }
+  },
+   {
+     "model": "landman.country",
+     "pk": 80,
+     "fields": {
+        "code": "GI",
+        "abbreviation": "GI",
+        "name": "Gibraltar",
+        "update_date": "2021-03-21",
+        "update_user": 1,
+        "hidden": true
+     }
+  },
+   {
+     "model": "landman.country",
+     "pk": 81,
+     "fields": {
+        "code": "GL",
+        "abbreviation": "GL",
+        "name": "Greenland",
+        "update_date": "2021-03-21",
+        "update_user": 1,
+        "hidden": true
+     }
+  },
+   {
+     "model": "landman.country",
+     "pk": 82,
+     "fields": {
+        "code": "GM",
+        "abbreviation": "GM",
+        "name": "Gambia",
+        "update_date": "2021-03-21",
+        "update_user": 1,
+        "hidden": true
+     }
+  },
+   {
+     "model": "landman.country",
+     "pk": 83,
+     "fields": {
+        "code": "GN",
+        "abbreviation": "GN",
+        "name": "Guinea",
+        "update_date": "2021-03-21",
+        "update_user": 1,
+        "hidden": true
+     }
+  },
+   {
+     "model": "landman.country",
+     "pk": 84,
+     "fields": {
+        "code": "GP",
+        "abbreviation": "GP",
+        "name": "Guadeloupe",
+        "update_date": "2021-03-21",
+        "update_user": 1,
+        "hidden": true
+     }
+  },
+   {
+     "model": "landman.country",
+     "pk": 85,
+     "fields": {
+        "code": "GQ",
+        "abbreviation": "GQ",
+        "name": "Equatorial Guinea",
+        "update_date": "2021-03-21",
+        "update_user": 1,
+        "hidden": true
+     }
+  },
+   {
+     "model": "landman.country",
+     "pk": 86,
+     "fields": {
+        "code": "GR",
+        "abbreviation": "GR",
+        "name": "Greece",
+        "update_date": "2021-03-21",
+        "update_user": 1,
+        "hidden": true
+     }
+  },
+   {
+     "model": "landman.country",
+     "pk": 87,
+     "fields": {
+        "code": "GS",
+        "abbreviation": "GS",
+        "name": "South Georgia and the South Sandwich Islands",
+        "update_date": "2021-03-21",
+        "update_user": 1,
+        "hidden": true
+     }
+  },
+   {
+     "model": "landman.country",
+     "pk": 88,
+     "fields": {
+        "code": "GT",
+        "abbreviation": "GT",
+        "name": "Guatemala",
+        "update_date": "2021-03-21",
+        "update_user": 1,
+        "hidden": true
+     }
+  },
+   {
+     "model": "landman.country",
+     "pk": 89,
+     "fields": {
+        "code": "GU",
+        "abbreviation": "GU",
+        "name": "Guam",
+        "update_date": "2021-03-21",
+        "update_user": 1,
+        "hidden": true
+     }
+  },
+   {
+     "model": "landman.country",
+     "pk": 90,
+     "fields": {
+        "code": "GW",
+        "abbreviation": "GW",
+        "name": "Guinea-Bissau",
+        "update_date": "2021-03-21",
+        "update_user": 1,
+        "hidden": true
+     }
+  },
+   {
+     "model": "landman.country",
+     "pk": 91,
+     "fields": {
+        "code": "GY",
+        "abbreviation": "GY",
+        "name": "Guyana",
+        "update_date": "2021-03-21",
+        "update_user": 1,
+        "hidden": true
+     }
+  },
+   {
+     "model": "landman.country",
+     "pk": 92,
+     "fields": {
+        "code": "GZ",
+        "abbreviation": "GZ",
+        "name": "Gaza Strip",
+        "update_date": "2021-03-21",
+        "update_user": 1,
+        "hidden": true
+     }
+  },
+   {
+     "model": "landman.country",
+     "pk": 93,
+     "fields": {
+        "code": "HK",
+        "abbreviation": "HK",
+        "name": "Hong Kong",
+        "update_date": "2021-03-21",
+        "update_user": 1,
+        "hidden": true
+     }
+  },
+   {
+     "model": "landman.country",
+     "pk": 94,
+     "fields": {
+        "code": "HM",
+        "abbreviation": "HM",
+        "name": "Heard Island and McDonald Islands",
+        "update_date": "2021-03-21",
+        "update_user": 1,
+        "hidden": true
+     }
+  },
+   {
+     "model": "landman.country",
+     "pk": 95,
+     "fields": {
+        "code": "HN",
+        "abbreviation": "HN",
+        "name": "Honduras",
+        "update_date": "2021-03-21",
+        "update_user": 1,
+        "hidden": true
+     }
+  },
+   {
+     "model": "landman.country",
+     "pk": 96,
+     "fields": {
+        "code": "HR",
+        "abbreviation": "HR",
+        "name": "Croatia",
+        "update_date": "2021-03-21",
+        "update_user": 1,
+        "hidden": true
+     }
+  },
+   {
+     "model": "landman.country",
+     "pk": 97,
+     "fields": {
+        "code": "HT",
+        "abbreviation": "HT",
+        "name": "Haiti",
+        "update_date": "2021-03-21",
+        "update_user": 1,
+        "hidden": true
+     }
+  },
+   {
+     "model": "landman.country",
+     "pk": 98,
+     "fields": {
+        "code": "HU",
+        "abbreviation": "HU",
+        "name": "Hungary",
+        "update_date": "2021-03-21",
+        "update_user": 1,
+        "hidden": true
+     }
+  },
+   {
+     "model": "landman.country",
+     "pk": 99,
+     "fields": {
+        "code": "ID",
+        "abbreviation": "ID",
+        "name": "Indonesia",
+        "update_date": "2021-03-21",
+        "update_user": 1,
+        "hidden": true
+     }
+  },
+   {
+     "model": "landman.country",
+     "pk": 100,
+     "fields": {
+        "code": "IE",
+        "abbreviation": "IE",
+        "name": "Ireland",
+        "update_date": "2021-03-21",
+        "update_user": 1,
+        "hidden": true
+     }
+  },
+   {
+     "model": "landman.country",
+     "pk": 101,
+     "fields": {
+        "code": "IL",
+        "abbreviation": "IL",
+        "name": "Israel",
+        "update_date": "2021-03-21",
+        "update_user": 1,
+        "hidden": true
+     }
+  },
+   {
+     "model": "landman.country",
+     "pk": 102,
+     "fields": {
+        "code": "IM",
+        "abbreviation": "IM",
+        "name": "Isle of Man",
+        "update_date": "2021-03-21",
+        "update_user": 1,
+        "hidden": true
+     }
+  },
+   {
+     "model": "landman.country",
+     "pk": 103,
+     "fields": {
+        "code": "IN",
+        "abbreviation": "IN",
+        "name": "India",
+        "update_date": "2021-03-21",
+        "update_user": 1,
+        "hidden": true
+     }
+  },
+   {
+     "model": "landman.country",
+     "pk": 104,
+     "fields": {
+        "code": "IO",
+        "abbreviation": "IO",
+        "name": "British Indian Ocean Territory",
+        "update_date": "2021-03-21",
+        "update_user": 1,
+        "hidden": true
+     }
+  },
+   {
+     "model": "landman.country",
+     "pk": 105,
+     "fields": {
+        "code": "IQ",
+        "abbreviation": "IQ",
+        "name": "Iraq",
+        "update_date": "2021-03-21",
+        "update_user": 1,
+        "hidden": true
+     }
+  },
+   {
+     "model": "landman.country",
+     "pk": 106,
+     "fields": {
+        "code": "IR",
+        "abbreviation": "IR",
+        "name": "Iran",
+        "update_date": "2021-03-21",
+        "update_user": 1,
+        "hidden": true
+     }
+  },
+   {
+     "model": "landman.country",
+     "pk": 107,
+     "fields": {
+        "code": "IS",
+        "abbreviation": "IS",
+        "name": "Iceland",
+        "update_date": "2021-03-21",
+        "update_user": 1,
+        "hidden": true
+     }
+  },
+   {
+     "model": "landman.country",
+     "pk": 108,
+     "fields": {
+        "code": "IT",
+        "abbreviation": "IT",
+        "name": "Italy",
+        "update_date": "2021-03-21",
+        "update_user": 1,
+        "hidden": true
+     }
+  },
+   {
+     "model": "landman.country",
+     "pk": 109,
+     "fields": {
+        "code": "JE",
+        "abbreviation": "JE",
+        "name": "Jersey",
+        "update_date": "2021-03-21",
+        "update_user": 1,
+        "hidden": true
+     }
+  },
+   {
+     "model": "landman.country",
+     "pk": 110,
+     "fields": {
+        "code": "JM",
+        "abbreviation": "JM",
+        "name": "Jamaica",
+        "update_date": "2021-03-21",
+        "update_user": 1,
+        "hidden": true
+     }
+  },
+   {
+     "model": "landman.country",
+     "pk": 111,
+     "fields": {
+        "code": "JO",
+        "abbreviation": "JO",
+        "name": "Jordan",
+        "update_date": "2021-03-21",
+        "update_user": 1,
+        "hidden": true
+     }
+  },
+   {
+     "model": "landman.country",
+     "pk": 112,
+     "fields": {
+        "code": "JP",
+        "abbreviation": "JP",
+        "name": "Japan",
+        "update_date": "2021-03-21",
+        "update_user": 1,
+        "hidden": true
+     }
+  },
+   {
+     "model": "landman.country",
+     "pk": 113,
+     "fields": {
+        "code": "KE",
+        "abbreviation": "KE",
+        "name": "Kenya",
+        "update_date": "2021-03-21",
+        "update_user": 1,
+        "hidden": true
+     }
+  },
+   {
+     "model": "landman.country",
+     "pk": 114,
+     "fields": {
+        "code": "KG",
+        "abbreviation": "KG",
+        "name": "Kyrgyzstan",
+        "update_date": "2021-03-21",
+        "update_user": 1,
+        "hidden": true
+     }
+  },
+   {
+     "model": "landman.country",
+     "pk": 115,
+     "fields": {
+        "code": "KH",
+        "abbreviation": "KH",
+        "name": "Cambodia",
+        "update_date": "2021-03-21",
+        "update_user": 1,
+        "hidden": true
+     }
+  },
+   {
+     "model": "landman.country",
+     "pk": 116,
+     "fields": {
+        "code": "KI",
+        "abbreviation": "KI",
+        "name": "Kiribati",
+        "update_date": "2021-03-21",
+        "update_user": 1,
+        "hidden": true
+     }
+  },
+   {
+     "model": "landman.country",
+     "pk": 117,
+     "fields": {
+        "code": "KM",
+        "abbreviation": "KM",
+        "name": "Comoros",
+        "update_date": "2021-03-21",
+        "update_user": 1,
+        "hidden": true
+     }
+  },
+   {
+     "model": "landman.country",
+     "pk": 118,
+     "fields": {
+        "code": "KN",
+        "abbreviation": "KN",
+        "name": "Saint Kitts and Nevis",
+        "update_date": "2021-03-21",
+        "update_user": 1,
+        "hidden": true
+     }
+  },
+   {
+     "model": "landman.country",
+     "pk": 119,
+     "fields": {
+        "code": "KP",
+        "abbreviation": "KP",
+        "name": "North Korea",
+        "update_date": "2021-03-21",
+        "update_user": 1,
+        "hidden": true
+     }
+  },
+   {
+     "model": "landman.country",
+     "pk": 120,
+     "fields": {
+        "code": "KR",
+        "abbreviation": "KR",
+        "name": "South Korea",
+        "update_date": "2021-03-21",
+        "update_user": 1,
+        "hidden": true
+     }
+  },
+   {
+     "model": "landman.country",
+     "pk": 121,
+     "fields": {
+        "code": "KW",
+        "abbreviation": "KW",
+        "name": "Kuwait",
+        "update_date": "2021-03-21",
+        "update_user": 1,
+        "hidden": true
+     }
+  },
+   {
+     "model": "landman.country",
+     "pk": 122,
+     "fields": {
+        "code": "KY",
+        "abbreviation": "KY",
+        "name": "Cayman Islands",
+        "update_date": "2021-03-21",
+        "update_user": 1,
+        "hidden": true
+     }
+  },
+   {
+     "model": "landman.country",
+     "pk": 123,
+     "fields": {
+        "code": "KZ",
+        "abbreviation": "KZ",
+        "name": "Kazakhstan",
+        "update_date": "2021-03-21",
+        "update_user": 1,
+        "hidden": true
+     }
+  },
+   {
+     "model": "landman.country",
+     "pk": 124,
+     "fields": {
+        "code": "LA",
+        "abbreviation": "LA",
+        "name": "Laos",
+        "update_date": "2021-03-21",
+        "update_user": 1,
+        "hidden": true
+     }
+  },
+   {
+     "model": "landman.country",
+     "pk": 125,
+     "fields": {
+        "code": "LB",
+        "abbreviation": "LB",
+        "name": "Lebanon",
+        "update_date": "2021-03-21",
+        "update_user": 1,
+        "hidden": true
+     }
+  },
+   {
+     "model": "landman.country",
+     "pk": 126,
+     "fields": {
+        "code": "LC",
+        "abbreviation": "LC",
+        "name": "Saint Lucia",
+        "update_date": "2021-03-21",
+        "update_user": 1,
+        "hidden": true
+     }
+  },
+   {
+     "model": "landman.country",
+     "pk": 127,
+     "fields": {
+        "code": "LI",
+        "abbreviation": "LI",
+        "name": "Liechtenstein",
+        "update_date": "2021-03-21",
+        "update_user": 1,
+        "hidden": true
+     }
+  },
+   {
+     "model": "landman.country",
+     "pk": 128,
+     "fields": {
+        "code": "LK",
+        "abbreviation": "LK",
+        "name": "Sri Lanka",
+        "update_date": "2021-03-21",
+        "update_user": 1,
+        "hidden": true
+     }
+  },
+   {
+     "model": "landman.country",
+     "pk": 129,
+     "fields": {
+        "code": "LR",
+        "abbreviation": "LR",
+        "name": "Liberia",
+        "update_date": "2021-03-21",
+        "update_user": 1,
+        "hidden": true
+     }
+  },
+   {
+     "model": "landman.country",
+     "pk": 130,
+     "fields": {
+        "code": "LS",
+        "abbreviation": "LS",
+        "name": "Lesotho",
+        "update_date": "2021-03-21",
+        "update_user": 1,
+        "hidden": true
+     }
+  },
+   {
+     "model": "landman.country",
+     "pk": 131,
+     "fields": {
+        "code": "LT",
+        "abbreviation": "LT",
+        "name": "Lithuania",
+        "update_date": "2021-03-21",
+        "update_user": 1,
+        "hidden": true
+     }
+  },
+   {
+     "model": "landman.country",
+     "pk": 132,
+     "fields": {
+        "code": "LU",
+        "abbreviation": "LU",
+        "name": "Luxembourg",
+        "update_date": "2021-03-21",
+        "update_user": 1,
+        "hidden": true
+     }
+  },
+   {
+     "model": "landman.country",
+     "pk": 133,
+     "fields": {
+        "code": "LV",
+        "abbreviation": "LV",
+        "name": "Latvia",
+        "update_date": "2021-03-21",
+        "update_user": 1,
+        "hidden": true
+     }
+  },
+   {
+     "model": "landman.country",
+     "pk": 134,
+     "fields": {
+        "code": "LY",
+        "abbreviation": "LY",
+        "name": "Libya",
+        "update_date": "2021-03-21",
+        "update_user": 1,
+        "hidden": true
+     }
+  },
+   {
+     "model": "landman.country",
+     "pk": 135,
+     "fields": {
+        "code": "MA",
+        "abbreviation": "MA",
+        "name": "Morocco",
+        "update_date": "2021-03-21",
+        "update_user": 1,
+        "hidden": true
+     }
+  },
+   {
+     "model": "landman.country",
+     "pk": 136,
+     "fields": {
+        "code": "MC",
+        "abbreviation": "MC",
+        "name": "Monaco",
+        "update_date": "2021-03-21",
+        "update_user": 1,
+        "hidden": true
+     }
+  },
+   {
+     "model": "landman.country",
+     "pk": 137,
+     "fields": {
+        "code": "MD",
+        "abbreviation": "MD",
+        "name": "Moldova",
+        "update_date": "2021-03-21",
+        "update_user": 1,
+        "hidden": true
+     }
+  },
+   {
+     "model": "landman.country",
+     "pk": 138,
+     "fields": {
+        "code": "ME",
+        "abbreviation": "ME",
+        "name": "Montenegro",
+        "update_date": "2021-03-21",
+        "update_user": 1,
+        "hidden": true
+     }
+  },
+   {
+     "model": "landman.country",
+     "pk": 139,
+     "fields": {
+        "code": "MG",
+        "abbreviation": "MG",
+        "name": "Madagascar",
+        "update_date": "2021-03-21",
+        "update_user": 1,
+        "hidden": true
+     }
+  },
+   {
+     "model": "landman.country",
+     "pk": 140,
+     "fields": {
+        "code": "MH",
+        "abbreviation": "MH",
+        "name": "Marshall Islands",
+        "update_date": "2021-03-21",
+        "update_user": 1,
+        "hidden": true
+     }
+  },
+   {
+     "model": "landman.country",
+     "pk": 141,
+     "fields": {
+        "code": "MK",
+        "abbreviation": "MK",
+        "name": "Macedonia [FYROM]",
+        "update_date": "2021-03-21",
+        "update_user": 1,
+        "hidden": true
+     }
+  },
+   {
+     "model": "landman.country",
+     "pk": 142,
+     "fields": {
+        "code": "ML",
+        "abbreviation": "ML",
+        "name": "Mali",
+        "update_date": "2021-03-21",
+        "update_user": 1,
+        "hidden": true
+     }
+  },
+   {
+     "model": "landman.country",
+     "pk": 143,
+     "fields": {
+        "code": "MM",
+        "abbreviation": "MM",
+        "name": "Myanmar [Burma]",
+        "update_date": "2021-03-21",
+        "update_user": 1,
+        "hidden": true
+     }
+  },
+   {
+     "model": "landman.country",
+     "pk": 144,
+     "fields": {
+        "code": "MN",
+        "abbreviation": "MN",
+        "name": "Mongolia",
+        "update_date": "2021-03-21",
+        "update_user": 1,
+        "hidden": true
+     }
+  },
+   {
+     "model": "landman.country",
+     "pk": 145,
+     "fields": {
+        "code": "MO",
+        "abbreviation": "MO",
+        "name": "Macau",
+        "update_date": "2021-03-21",
+        "update_user": 1,
+        "hidden": true
+     }
+  },
+   {
+     "model": "landman.country",
+     "pk": 146,
+     "fields": {
+        "code": "MP",
+        "abbreviation": "MP",
+        "name": "Northern Mariana Islands",
+        "update_date": "2021-03-21",
+        "update_user": 1,
+        "hidden": true
+     }
+  },
+   {
+     "model": "landman.country",
+     "pk": 147,
+     "fields": {
+        "code": "MQ",
+        "abbreviation": "MQ",
+        "name": "Martinique",
+        "update_date": "2021-03-21",
+        "update_user": 1,
+        "hidden": true
+     }
+  },
+   {
+     "model": "landman.country",
+     "pk": 148,
+     "fields": {
+        "code": "MR",
+        "abbreviation": "MR",
+        "name": "Mauritania",
+        "update_date": "2021-03-21",
+        "update_user": 1,
+        "hidden": true
+     }
+  },
+   {
+     "model": "landman.country",
+     "pk": 149,
+     "fields": {
+        "code": "MS",
+        "abbreviation": "MS",
+        "name": "Montserrat",
+        "update_date": "2021-03-21",
+        "update_user": 1,
+        "hidden": true
+     }
+  },
+   {
+     "model": "landman.country",
+     "pk": 150,
+     "fields": {
+        "code": "MT",
+        "abbreviation": "MT",
+        "name": "Malta",
+        "update_date": "2021-03-21",
+        "update_user": 1,
+        "hidden": true
+     }
+  },
+   {
+     "model": "landman.country",
+     "pk": 151,
+     "fields": {
+        "code": "MU",
+        "abbreviation": "MU",
+        "name": "Mauritius",
+        "update_date": "2021-03-21",
+        "update_user": 1,
+        "hidden": true
+     }
+  },
+   {
+     "model": "landman.country",
+     "pk": 152,
+     "fields": {
+        "code": "MV",
+        "abbreviation": "MV",
+        "name": "Maldives",
+        "update_date": "2021-03-21",
+        "update_user": 1,
+        "hidden": true
+     }
+  },
+   {
+     "model": "landman.country",
+     "pk": 153,
+     "fields": {
+        "code": "MW",
+        "abbreviation": "MW",
+        "name": "Malawi",
+        "update_date": "2021-03-21",
+        "update_user": 1,
+        "hidden": true
+     }
+  },
+   {
+     "model": "landman.country",
+     "pk": 154,
+     "fields": {
+        "code": "MX",
+        "abbreviation": "MX",
+        "name": "Mexico",
+        "update_date": "2021-03-21",
+        "update_user": 1,
+        "hidden": true
+     }
+  },
+   {
+     "model": "landman.country",
+     "pk": 155,
+     "fields": {
+        "code": "MY",
+        "abbreviation": "MY",
+        "name": "Malaysia",
+        "update_date": "2021-03-21",
+        "update_user": 1,
+        "hidden": true
+     }
+  },
+   {
+     "model": "landman.country",
+     "pk": 156,
+     "fields": {
+        "code": "MZ",
+        "abbreviation": "MZ",
+        "name": "Mozambique",
+        "update_date": "2021-03-21",
+        "update_user": 1,
+        "hidden": true
+     }
+  },
+   {
+     "model": "landman.country",
+     "pk": 157,
+     "fields": {
+        "code": "NA",
+        "abbreviation": "NA",
+        "name": "Namibia",
+        "update_date": "2021-03-21",
+        "update_user": 1,
+        "hidden": true
+     }
+  },
+   {
+     "model": "landman.country",
+     "pk": 158,
+     "fields": {
+        "code": "NC",
+        "abbreviation": "NC",
+        "name": "New Caledonia",
+        "update_date": "2021-03-21",
+        "update_user": 1,
+        "hidden": true
+     }
+  },
+   {
+     "model": "landman.country",
+     "pk": 159,
+     "fields": {
+        "code": "NE",
+        "abbreviation": "NE",
+        "name": "Niger",
+        "update_date": "2021-03-21",
+        "update_user": 1,
+        "hidden": true
+     }
+  },
+   {
+     "model": "landman.country",
+     "pk": 160,
+     "fields": {
+        "code": "NF",
+        "abbreviation": "NF",
+        "name": "Norfolk Island",
+        "update_date": "2021-03-21",
+        "update_user": 1,
+        "hidden": true
+     }
+  },
+   {
+     "model": "landman.country",
+     "pk": 161,
+     "fields": {
+        "code": "NG",
+        "abbreviation": "NG",
+        "name": "Nigeria",
+        "update_date": "2021-03-21",
+        "update_user": 1,
+        "hidden": true
+     }
+  },
+   {
+     "model": "landman.country",
+     "pk": 162,
+     "fields": {
+        "code": "NI",
+        "abbreviation": "NI",
+        "name": "Nicaragua",
+        "update_date": "2021-03-21",
+        "update_user": 1,
+        "hidden": true
+     }
+  },
+   {
+     "model": "landman.country",
+     "pk": 163,
+     "fields": {
+        "code": "NL",
+        "abbreviation": "NL",
+        "name": "Netherlands",
+        "update_date": "2021-03-21",
+        "update_user": 1,
+        "hidden": true
+     }
+  },
+   {
+     "model": "landman.country",
+     "pk": 164,
+     "fields": {
+        "code": "NO",
+        "abbreviation": "NO",
+        "name": "Norway",
+        "update_date": "2021-03-21",
+        "update_user": 1,
+        "hidden": true
+     }
+  },
+   {
+     "model": "landman.country",
+     "pk": 165,
+     "fields": {
+        "code": "NP",
+        "abbreviation": "NP",
+        "name": "Nepal",
+        "update_date": "2021-03-21",
+        "update_user": 1,
+        "hidden": true
+     }
+  },
+   {
+     "model": "landman.country",
+     "pk": 166,
+     "fields": {
+        "code": "NR",
+        "abbreviation": "NR",
+        "name": "Nauru",
+        "update_date": "2021-03-21",
+        "update_user": 1,
+        "hidden": true
+     }
+  },
+   {
+     "model": "landman.country",
+     "pk": 167,
+     "fields": {
+        "code": "NU",
+        "abbreviation": "NU",
+        "name": "Niue",
+        "update_date": "2021-03-21",
+        "update_user": 1,
+        "hidden": true
+     }
+  },
+   {
+     "model": "landman.country",
+     "pk": 168,
+     "fields": {
+        "code": "NZ",
+        "abbreviation": "NZ",
+        "name": "New Zealand",
+        "update_date": "2021-03-21",
+        "update_user": 1,
+        "hidden": true
+     }
+  },
+   {
+     "model": "landman.country",
+     "pk": 169,
+     "fields": {
+        "code": "OM",
+        "abbreviation": "OM",
+        "name": "Oman",
+        "update_date": "2021-03-21",
+        "update_user": 1,
+        "hidden": true
+     }
+  },
+   {
+     "model": "landman.country",
+     "pk": 170,
+     "fields": {
+        "code": "PA",
+        "abbreviation": "PA",
+        "name": "Panama",
+        "update_date": "2021-03-21",
+        "update_user": 1,
+        "hidden": true
+     }
+  },
+   {
+     "model": "landman.country",
+     "pk": 171,
+     "fields": {
+        "code": "PE",
+        "abbreviation": "PE",
+        "name": "Peru",
+        "update_date": "2021-03-21",
+        "update_user": 1,
+        "hidden": true
+     }
+  },
+   {
+     "model": "landman.country",
+     "pk": 172,
+     "fields": {
+        "code": "PF",
+        "abbreviation": "PF",
+        "name": "French Polynesia",
+        "update_date": "2021-03-21",
+        "update_user": 1,
+        "hidden": true
+     }
+  },
+   {
+     "model": "landman.country",
+     "pk": 173,
+     "fields": {
+        "code": "PG",
+        "abbreviation": "PG",
+        "name": "Papua New Guinea",
+        "update_date": "2021-03-21",
+        "update_user": 1,
+        "hidden": true
+     }
+  },
+   {
+     "model": "landman.country",
+     "pk": 174,
+     "fields": {
+        "code": "PH",
+        "abbreviation": "PH",
+        "name": "Philippines",
+        "update_date": "2021-03-21",
+        "update_user": 1,
+        "hidden": true
+     }
+  },
+   {
+     "model": "landman.country",
+     "pk": 175,
+     "fields": {
+        "code": "PK",
+        "abbreviation": "PK",
+        "name": "Pakistan",
+        "update_date": "2021-03-21",
+        "update_user": 1,
+        "hidden": true
+     }
+  },
+   {
+     "model": "landman.country",
+     "pk": 176,
+     "fields": {
+        "code": "PL",
+        "abbreviation": "PL",
+        "name": "Poland",
+        "update_date": "2021-03-21",
+        "update_user": 1,
+        "hidden": true
+     }
+  },
+   {
+     "model": "landman.country",
+     "pk": 177,
+     "fields": {
+        "code": "PM",
+        "abbreviation": "PM",
+        "name": "Saint Pierre and Miquelon",
+        "update_date": "2021-03-21",
+        "update_user": 1,
+        "hidden": true
+     }
+  },
+   {
+     "model": "landman.country",
+     "pk": 178,
+     "fields": {
+        "code": "PN",
+        "abbreviation": "PN",
+        "name": "Pitcairn Islands",
+        "update_date": "2021-03-21",
+        "update_user": 1,
+        "hidden": true
+     }
+  },
+   {
+     "model": "landman.country",
+     "pk": 179,
+     "fields": {
+        "code": "PR",
+        "abbreviation": "PR",
+        "name": "Puerto Rico",
+        "update_date": "2021-03-21",
+        "update_user": 1,
+        "hidden": true
+     }
+  },
+   {
+     "model": "landman.country",
+     "pk": 180,
+     "fields": {
+        "code": "PS",
+        "abbreviation": "PS",
+        "name": "Palestinian Territories",
+        "update_date": "2021-03-21",
+        "update_user": 1,
+        "hidden": true
+     }
+  },
+   {
+     "model": "landman.country",
+     "pk": 181,
+     "fields": {
+        "code": "PT",
+        "abbreviation": "PT",
+        "name": "Portugal",
+        "update_date": "2021-03-21",
+        "update_user": 1,
+        "hidden": true
+     }
+  },
+   {
+     "model": "landman.country",
+     "pk": 182,
+     "fields": {
+        "code": "PW",
+        "abbreviation": "PW",
+        "name": "Palau",
+        "update_date": "2021-03-21",
+        "update_user": 1,
+        "hidden": true
+     }
+  },
+   {
+     "model": "landman.country",
+     "pk": 183,
+     "fields": {
+        "code": "PY",
+        "abbreviation": "PY",
+        "name": "Paraguay",
+        "update_date": "2021-03-21",
+        "update_user": 1,
+        "hidden": true
+     }
+  },
+   {
+     "model": "landman.country",
+     "pk": 184,
+     "fields": {
+        "code": "QA",
+        "abbreviation": "QA",
+        "name": "Qatar",
+        "update_date": "2021-03-21",
+        "update_user": 1,
+        "hidden": true
+     }
+  },
+   {
+     "model": "landman.country",
+     "pk": 185,
+     "fields": {
+        "code": "RE",
+        "abbreviation": "RE",
+        "name": "Réunion",
+        "update_date": "2021-03-21",
+        "update_user": 1,
+        "hidden": true
+     }
+  },
+   {
+     "model": "landman.country",
+     "pk": 186,
+     "fields": {
+        "code": "RO",
+        "abbreviation": "RO",
+        "name": "Romania",
+        "update_date": "2021-03-21",
+        "update_user": 1,
+        "hidden": true
+     }
+  },
+   {
+     "model": "landman.country",
+     "pk": 187,
+     "fields": {
+        "code": "RS",
+        "abbreviation": "RS",
+        "name": "Serbia",
+        "update_date": "2021-03-21",
+        "update_user": 1,
+        "hidden": true
+     }
+  },
+   {
+     "model": "landman.country",
+     "pk": 188,
+     "fields": {
+        "code": "RU",
+        "abbreviation": "RU",
+        "name": "Russia",
+        "update_date": "2021-03-21",
+        "update_user": 1,
+        "hidden": true
+     }
+  },
+   {
+     "model": "landman.country",
+     "pk": 189,
+     "fields": {
+        "code": "RW",
+        "abbreviation": "RW",
+        "name": "Rwanda",
+        "update_date": "2021-03-21",
+        "update_user": 1,
+        "hidden": true
+     }
+  },
+   {
+     "model": "landman.country",
+     "pk": 190,
+     "fields": {
+        "code": "SA",
+        "abbreviation": "SA",
+        "name": "Saudi Arabia",
+        "update_date": "2021-03-21",
+        "update_user": 1,
+        "hidden": true
+     }
+  },
+   {
+     "model": "landman.country",
+     "pk": 191,
+     "fields": {
+        "code": "SB",
+        "abbreviation": "SB",
+        "name": "Solomon Islands",
+        "update_date": "2021-03-21",
+        "update_user": 1,
+        "hidden": true
+     }
+  },
+   {
+     "model": "landman.country",
+     "pk": 192,
+     "fields": {
+        "code": "SC",
+        "abbreviation": "SC",
+        "name": "Seychelles",
+        "update_date": "2021-03-21",
+        "update_user": 1,
+        "hidden": true
+     }
+  },
+   {
+     "model": "landman.country",
+     "pk": 193,
+     "fields": {
+        "code": "SD",
+        "abbreviation": "SD",
+        "name": "Sudan",
+        "update_date": "2021-03-21",
+        "update_user": 1,
+        "hidden": true
+     }
+  },
+   {
+     "model": "landman.country",
+     "pk": 194,
+     "fields": {
+        "code": "SE",
+        "abbreviation": "SE",
+        "name": "Sweden",
+        "update_date": "2021-03-21",
+        "update_user": 1,
+        "hidden": true
+     }
+  },
+   {
+     "model": "landman.country",
+     "pk": 195,
+     "fields": {
+        "code": "SG",
+        "abbreviation": "SG",
+        "name": "Singapore",
+        "update_date": "2021-03-21",
+        "update_user": 1,
+        "hidden": true
+     }
+  },
+   {
+     "model": "landman.country",
+     "pk": 196,
+     "fields": {
+        "code": "SH",
+        "abbreviation": "SH",
+        "name": "Saint Helena",
+        "update_date": "2021-03-21",
+        "update_user": 1,
+        "hidden": true
+     }
+  },
+   {
+     "model": "landman.country",
+     "pk": 197,
+     "fields": {
+        "code": "SI",
+        "abbreviation": "SI",
+        "name": "Slovenia",
+        "update_date": "2021-03-21",
+        "update_user": 1,
+        "hidden": true
+     }
+  },
+   {
+     "model": "landman.country",
+     "pk": 198,
+     "fields": {
+        "code": "SJ",
+        "abbreviation": "SJ",
+        "name": "Svalbard and Jan Mayen",
+        "update_date": "2021-03-21",
+        "update_user": 1,
+        "hidden": true
+     }
+  },
+   {
+     "model": "landman.country",
+     "pk": 199,
+     "fields": {
+        "code": "SK",
+        "abbreviation": "SK",
+        "name": "Slovakia",
+        "update_date": "2021-03-21",
+        "update_user": 1,
+        "hidden": true
+     }
+  },
+   {
+     "model": "landman.country",
+     "pk": 200,
+     "fields": {
+        "code": "SL",
+        "abbreviation": "SL",
+        "name": "Sierra Leone",
+        "update_date": "2021-03-21",
+        "update_user": 1,
+        "hidden": true
+     }
+  },
+   {
+     "model": "landman.country",
+     "pk": 201,
+     "fields": {
+        "code": "SM",
+        "abbreviation": "SM",
+        "name": "San Marino",
+        "update_date": "2021-03-21",
+        "update_user": 1,
+        "hidden": true
+     }
+  },
+   {
+     "model": "landman.country",
+     "pk": 202,
+     "fields": {
+        "code": "SN",
+        "abbreviation": "SN",
+        "name": "Senegal",
+        "update_date": "2021-03-21",
+        "update_user": 1,
+        "hidden": true
+     }
+  },
+   {
+     "model": "landman.country",
+     "pk": 203,
+     "fields": {
+        "code": "SO",
+        "abbreviation": "SO",
+        "name": "Somalia",
+        "update_date": "2021-03-21",
+        "update_user": 1,
+        "hidden": true
+     }
+  },
+   {
+     "model": "landman.country",
+     "pk": 204,
+     "fields": {
+        "code": "SR",
+        "abbreviation": "SR",
+        "name": "Suriname",
+        "update_date": "2021-03-21",
+        "update_user": 1,
+        "hidden": true
+     }
+  },
+   {
+     "model": "landman.country",
+     "pk": 205,
+     "fields": {
+        "code": "ST",
+        "abbreviation": "ST",
+        "name": "São Tomé and Príncipe",
+        "update_date": "2021-03-21",
+        "update_user": 1,
+        "hidden": true
+     }
+  },
+   {
+     "model": "landman.country",
+     "pk": 206,
+     "fields": {
+        "code": "SV",
+        "abbreviation": "SV",
+        "name": "El Salvador",
+        "update_date": "2021-03-21",
+        "update_user": 1,
+        "hidden": true
+     }
+  },
+   {
+     "model": "landman.country",
+     "pk": 207,
+     "fields": {
+        "code": "SY",
+        "abbreviation": "SY",
+        "name": "Syria",
+        "update_date": "2021-03-21",
+        "update_user": 1,
+        "hidden": true
+     }
+  },
+   {
+     "model": "landman.country",
+     "pk": 208,
+     "fields": {
+        "code": "SZ",
+        "abbreviation": "SZ",
+        "name": "Swaziland",
+        "update_date": "2021-03-21",
+        "update_user": 1,
+        "hidden": true
+     }
+  },
+   {
+     "model": "landman.country",
+     "pk": 209,
+     "fields": {
+        "code": "TC",
+        "abbreviation": "TC",
+        "name": "Turks and Caicos Islands",
+        "update_date": "2021-03-21",
+        "update_user": 1,
+        "hidden": true
+     }
+  },
+   {
+     "model": "landman.country",
+     "pk": 210,
+     "fields": {
+        "code": "TD",
+        "abbreviation": "TD",
+        "name": "Chad",
+        "update_date": "2021-03-21",
+        "update_user": 1,
+        "hidden": true
+     }
+  },
+   {
+     "model": "landman.country",
+     "pk": 211,
+     "fields": {
+        "code": "TF",
+        "abbreviation": "TF",
+        "name": "French Southern Territories",
+        "update_date": "2021-03-21",
+        "update_user": 1,
+        "hidden": true
+     }
+  },
+   {
+     "model": "landman.country",
+     "pk": 212,
+     "fields": {
+        "code": "TG",
+        "abbreviation": "TG",
+        "name": "Togo",
+        "update_date": "2021-03-21",
+        "update_user": 1,
+        "hidden": true
+     }
+  },
+   {
+     "model": "landman.country",
+     "pk": 213,
+     "fields": {
+        "code": "TH",
+        "abbreviation": "TH",
+        "name": "Thailand",
+        "update_date": "2021-03-21",
+        "update_user": 1,
+        "hidden": true
+     }
+  },
+   {
+     "model": "landman.country",
+     "pk": 214,
+     "fields": {
+        "code": "TJ",
+        "abbreviation": "TJ",
+        "name": "Tajikistan",
+        "update_date": "2021-03-21",
+        "update_user": 1,
+        "hidden": true
+     }
+  },
+   {
+     "model": "landman.country",
+     "pk": 215,
+     "fields": {
+        "code": "TK",
+        "abbreviation": "TK",
+        "name": "Tokelau",
+        "update_date": "2021-03-21",
+        "update_user": 1,
+        "hidden": true
+     }
+  },
+   {
+     "model": "landman.country",
+     "pk": 216,
+     "fields": {
+        "code": "TL",
+        "abbreviation": "TL",
+        "name": "Timor-Leste",
+        "update_date": "2021-03-21",
+        "update_user": 1,
+        "hidden": true
+     }
+  },
+   {
+     "model": "landman.country",
+     "pk": 217,
+     "fields": {
+        "code": "TM",
+        "abbreviation": "TM",
+        "name": "Turkmenistan",
+        "update_date": "2021-03-21",
+        "update_user": 1,
+        "hidden": true
+     }
+  },
+   {
+     "model": "landman.country",
+     "pk": 218,
+     "fields": {
+        "code": "TN",
+        "abbreviation": "TN",
+        "name": "Tunisia",
+        "update_date": "2021-03-21",
+        "update_user": 1,
+        "hidden": true
+     }
+  },
+   {
+     "model": "landman.country",
+     "pk": 219,
+     "fields": {
+        "code": "TO",
+        "abbreviation": "TO",
+        "name": "Tonga",
+        "update_date": "2021-03-21",
+        "update_user": 1,
+        "hidden": true
+     }
+  },
+   {
+     "model": "landman.country",
+     "pk": 220,
+     "fields": {
+        "code": "TR",
+        "abbreviation": "TR",
+        "name": "Turkey",
+        "update_date": "2021-03-21",
+        "update_user": 1,
+        "hidden": true
+     }
+  },
+   {
+     "model": "landman.country",
+     "pk": 221,
+     "fields": {
+        "code": "TT",
+        "abbreviation": "TT",
+        "name": "Trinidad and Tobago",
+        "update_date": "2021-03-21",
+        "update_user": 1,
+        "hidden": true
+     }
+  },
+   {
+     "model": "landman.country",
+     "pk": 222,
+     "fields": {
+        "code": "TV",
+        "abbreviation": "TV",
+        "name": "Tuvalu",
+        "update_date": "2021-03-21",
+        "update_user": 1,
+        "hidden": true
+     }
+  },
+   {
+     "model": "landman.country",
+     "pk": 223,
+     "fields": {
+        "code": "TW",
+        "abbreviation": "TW",
+        "name": "Taiwan",
+        "update_date": "2021-03-21",
+        "update_user": 1,
+        "hidden": true
+     }
+  },
+   {
+     "model": "landman.country",
+     "pk": 224,
+     "fields": {
+        "code": "TZ",
+        "abbreviation": "TZ",
+        "name": "Tanzania",
+        "update_date": "2021-03-21",
+        "update_user": 1,
+        "hidden": true
+     }
+  },
+   {
+     "model": "landman.country",
+     "pk": 225,
+     "fields": {
+        "code": "UA",
+        "abbreviation": "UA",
+        "name": "Ukraine",
+        "update_date": "2021-03-21",
+        "update_user": 1,
+        "hidden": true
+     }
+  },
+   {
+     "model": "landman.country",
+     "pk": 226,
+     "fields": {
+        "code": "UG",
+        "abbreviation": "UG",
+        "name": "Uganda",
+        "update_date": "2021-03-21",
+        "update_user": 1,
+        "hidden": true
+     }
+  },
+   {
+     "model": "landman.country",
+     "pk": 227,
+     "fields": {
+        "code": "UM",
+        "abbreviation": "UM",
+        "name": "U.S. Minor Outlying Islands",
+        "update_date": "2021-03-21",
+        "update_user": 1,
+        "hidden": true
+     }
+  },
+   {
+     "model": "landman.country",
+     "pk": 228,
+     "fields": {
+        "code": "US",
+        "abbreviation": "US",
+        "name": "United States",
+        "update_date": "2021-03-21",
+        "update_user": 1,
+        "hidden": false
+     }
+  },
+   {
+     "model": "landman.country",
+     "pk": 229,
+     "fields": {
+        "code": "UY",
+        "abbreviation": "UY",
+        "name": "Uruguay",
+        "update_date": "2021-03-21",
+        "update_user": 1,
+        "hidden": true
+     }
+  },
+   {
+     "model": "landman.country",
+     "pk": 230,
+     "fields": {
+        "code": "UZ",
+        "abbreviation": "UZ",
+        "name": "Uzbekistan",
+        "update_date": "2021-03-21",
+        "update_user": 1,
+        "hidden": true
+     }
+  },
+   {
+     "model": "landman.country",
+     "pk": 231,
+     "fields": {
+        "code": "VA",
+        "abbreviation": "VA",
+        "name": "Vatican City",
+        "update_date": "2021-03-21",
+        "update_user": 1,
+        "hidden": true
+     }
+  },
+   {
+     "model": "landman.country",
+     "pk": 232,
+     "fields": {
+        "code": "VC",
+        "abbreviation": "VC",
+        "name": "Saint Vincent and the Grenadines",
+        "update_date": "2021-03-21",
+        "update_user": 1,
+        "hidden": true
+     }
+  },
+   {
+     "model": "landman.country",
+     "pk": 233,
+     "fields": {
+        "code": "VE",
+        "abbreviation": "VE",
+        "name": "Venezuela",
+        "update_date": "2021-03-21",
+        "update_user": 1,
+        "hidden": true
+     }
+  },
+   {
+     "model": "landman.country",
+     "pk": 234,
+     "fields": {
+        "code": "VG",
+        "abbreviation": "VG",
+        "name": "British Virgin Islands",
+        "update_date": "2021-03-21",
+        "update_user": 1,
+        "hidden": true
+     }
+  },
+   {
+     "model": "landman.country",
+     "pk": 235,
+     "fields": {
+        "code": "VI",
+        "abbreviation": "VI",
+        "name": "U.S. Virgin Islands",
+        "update_date": "2021-03-21",
+        "update_user": 1,
+        "hidden": true
+     }
+  },
+   {
+     "model": "landman.country",
+     "pk": 236,
+     "fields": {
+        "code": "VN",
+        "abbreviation": "VN",
+        "name": "Vietnam",
+        "update_date": "2021-03-21",
+        "update_user": 1,
+        "hidden": true
+     }
+  },
+   {
+     "model": "landman.country",
+     "pk": 237,
+     "fields": {
+        "code": "VU",
+        "abbreviation": "VU",
+        "name": "Vanuatu",
+        "update_date": "2021-03-21",
+        "update_user": 1,
+        "hidden": true
+     }
+  },
+   {
+     "model": "landman.country",
+     "pk": 238,
+     "fields": {
+        "code": "WF",
+        "abbreviation": "WF",
+        "name": "Wallis and Futuna",
+        "update_date": "2021-03-21",
+        "update_user": 1,
+        "hidden": true
+     }
+  },
+   {
+     "model": "landman.country",
+     "pk": 239,
+     "fields": {
+        "code": "WS",
+        "abbreviation": "WS",
+        "name": "Samoa",
+        "update_date": "2021-03-21",
+        "update_user": 1,
+        "hidden": true
+     }
+  },
+   {
+     "model": "landman.country",
+     "pk": 240,
+     "fields": {
+        "code": "XK",
+        "abbreviation": "XK",
+        "name": "Kosovo",
+        "update_date": "2021-03-21",
+        "update_user": 1,
+        "hidden": true
+     }
+  },
+   {
+     "model": "landman.country",
+     "pk": 241,
+     "fields": {
+        "code": "YE",
+        "abbreviation": "YE",
+        "name": "Yemen",
+        "update_date": "2021-03-21",
+        "update_user": 1,
+        "hidden": true
+     }
+  },
+   {
+     "model": "landman.country",
+     "pk": 242,
+     "fields": {
+        "code": "YT",
+        "abbreviation": "YT",
+        "name": "Mayotte",
+        "update_date": "2021-03-21",
+        "update_user": 1,
+        "hidden": true
+     }
+  },
+   {
+     "model": "landman.country",
+     "pk": 243,
+     "fields": {
+        "code": "ZA",
+        "abbreviation": "ZA",
+        "name": "South Africa",
+        "update_date": "2021-03-21",
+        "update_user": 1,
+        "hidden": true
+     }
+  },
+   {
+     "model": "landman.country",
+     "pk": 244,
+     "fields": {
+        "code": "ZM",
+        "abbreviation": "ZM",
+        "name": "Zambia",
+        "update_date": "2021-03-21",
+        "update_user": 1,
+        "hidden": true
+     }
+  },
+   {
+     "model": "landman.country",
+     "pk": 245,
+     "fields": {
+        "code": "ZW",
+        "abbreviation": "ZW",
+        "name": "Zimbabwe",
+        "update_date": "2021-03-21",
+        "update_user": 1,
+        "hidden": true
+     }
+  }
+  ]

@@ -1,0 +1,45 @@
+[
+  {
+    "model": "landman.backupwithholdingtype",
+    "pk": "BWH",
+    "fields": {
+      "description": "Subject to Backup Withholding"
+    }
+  },
+  {
+    "model": "landman.backupwithholdingtype",
+    "pk": "NR",
+    "fields": {
+      "description": "Non-Resident Alien"
+    }
+  },
+  {
+    "model": "landman.backupwithholdingtype",
+    "pk": "NRX",
+    "fields": {
+      "description": "Non-Resident Alien (Exempt)"
+    }
+  },
+  {
+    "model": "landman.backupwithholdingtype",
+    "pk": "NSP",
+    "fields": {
+      "description": "Non Specified"
+    }
+  },
+  {
+    "model": "landman.backupwithholdingtype",
+    "pk": "NTX",
+    "fields": {
+      "description": "No Tax Withholding Required"
+    }
+  },
+  {
+    "model": "landman.backupwithholdingtype",
+    "pk": "OWR",
+    "fields": {
+      "description": "Other Withholding Required"
+    }
+  }
+  ]
+  

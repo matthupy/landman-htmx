@@ -1,0 +1,44 @@
+[
+{
+  "model": "landman.surveytype",
+  "pk": "JEFF",
+  "fields": {
+    "description": "Jeffersonian"
+  }
+},
+{
+  "model": "landman.surveytype",
+  "pk": "NONJEF",
+  "fields": {
+    "description": "Non-Jeffersonian"
+  }
+},
+{
+  "model": "landman.surveytype",
+  "pk": "TAXP",
+  "fields": {
+    "description": "Tax Parcel"
+  }
+},
+{
+  "model": "landman.surveytype",
+  "pk": "NTS",
+  "fields": {
+    "description": "NTS"
+  }
+},
+{
+  "model": "landman.surveytype",
+  "pk": "DLS",
+  "fields": {
+    "description": "DLS"
+  }
+},
+{
+  "model": "landman.surveytype",
+  "pk": "FPS",
+  "fields": {
+    "description": "FPS"
+  }
+}
+]

@@ -1,0 +1,912 @@
+[
+  {
+    "model": "landman.state",
+    "pk": 1,
+    "fields": {
+       "country_id": 228,
+       "code": "02",
+       "abbreviation": "AK",
+       "name": "Alaska",
+       "survey": "JEFF",
+       "update_date": "2021-03-21",
+       "update_user": 1,
+       "hidden": false
+    }
+ },
+  {
+    "model": "landman.state",
+    "pk": 2,
+    "fields": {
+       "country_id": 228,
+       "code": "01",
+       "abbreviation": "AL",
+       "name": "Alabama",
+       "survey": "JEFF",
+       "update_date": "2021-03-21",
+       "update_user": 1,
+       "hidden": false
+    }
+ },
+  {
+    "model": "landman.state",
+    "pk": 3,
+    "fields": {
+       "country_id": 228,
+       "code": "05",
+       "abbreviation": "AR",
+       "name": "Arkansas",
+       "survey": "JEFF",
+       "update_date": "2021-03-21",
+       "update_user": 1,
+       "hidden": false
+    }
+ },
+  {
+    "model": "landman.state",
+    "pk": 4,
+    "fields": {
+       "country_id": 228,
+       "code": "04",
+       "abbreviation": "AZ",
+       "name": "Arizona",
+       "survey": "JEFF",
+       "update_date": "2021-03-21",
+       "update_user": 1,
+       "hidden": false
+    }
+ },
+  {
+    "model": "landman.state",
+    "pk": 5,
+    "fields": {
+       "country_id": 228,
+       "code": "06",
+       "abbreviation": "CA",
+       "name": "California",
+       "survey": "JEFF",
+       "update_date": "2021-03-21",
+       "update_user": 1,
+       "hidden": false
+    }
+ },
+  {
+    "model": "landman.state",
+    "pk": 6,
+    "fields": {
+       "country_id": 228,
+       "code": "08",
+       "abbreviation": "CO",
+       "name": "Colorado",
+       "survey": "JEFF",
+       "update_date": "2021-03-21",
+       "update_user": 1,
+       "hidden": false
+    }
+ },
+  {
+    "model": "landman.state",
+    "pk": 7,
+    "fields": {
+       "country_id": 228,
+       "code": "09",
+       "abbreviation": "CT",
+       "name": "Connecticut",
+       "survey": "TAXP",
+       "update_date": "2021-03-21",
+       "update_user": 1,
+       "hidden": false
+    }
+ },
+  {
+    "model": "landman.state",
+    "pk": 8,
+    "fields": {
+       "country_id": 228,
+       "code": "11",
+       "abbreviation": "DC",
+       "name": "District of Columbia",
+       "survey": "TAXP",
+       "update_date": "2021-03-21",
+       "update_user": 1,
+       "hidden": false
+    }
+ },
+  {
+    "model": "landman.state",
+    "pk": 9,
+    "fields": {
+       "country_id": 228,
+       "code": "10",
+       "abbreviation": "DE",
+       "name": "Delaware",
+       "survey": "TAXP",
+       "update_date": "2021-03-21",
+       "update_user": 1,
+       "hidden": false
+    }
+ },
+  {
+    "model": "landman.state",
+    "pk": 10,
+    "fields": {
+       "country_id": 228,
+       "code": "12",
+       "abbreviation": "FL",
+       "name": "Florida",
+       "survey": "JEFF",
+       "update_date": "2021-03-21",
+       "update_user": 1,
+       "hidden": false
+    }
+ },
+  {
+    "model": "landman.state",
+    "pk": 11,
+    "fields": {
+       "country_id": 228,
+       "code": "13",
+       "abbreviation": "GA",
+       "name": "Georgia",
+       "survey": "JEFF",
+       "update_date": "2021-03-21",
+       "update_user": 1,
+       "hidden": false
+    }
+ },
+  {
+    "model": "landman.state",
+    "pk": 12,
+    "fields": {
+       "country_id": 228,
+       "code": "15",
+       "abbreviation": "HI",
+       "name": "Hawaii",
+       "survey": "JEFF",
+       "update_date": "2021-03-21",
+       "update_user": 1,
+       "hidden": false
+    }
+ },
+  {
+    "model": "landman.state",
+    "pk": 13,
+    "fields": {
+       "country_id": 228,
+       "code": "19",
+       "abbreviation": "IA",
+       "name": "Iowa",
+       "survey": "JEFF",
+       "update_date": "2021-03-21",
+       "update_user": 1,
+       "hidden": false
+    }
+ },
+  {
+    "model": "landman.state",
+    "pk": 14,
+    "fields": {
+       "country_id": 228,
+       "code": "16",
+       "abbreviation": "ID",
+       "name": "Idaho",
+       "survey": "JEFF",
+       "update_date": "2021-03-21",
+       "update_user": 1,
+       "hidden": false
+    }
+ },
+  {
+    "model": "landman.state",
+    "pk": 15,
+    "fields": {
+       "country_id": 228,
+       "code": "17",
+       "abbreviation": "IL",
+       "name": "Illinois",
+       "survey": "JEFF",
+       "update_date": "2021-03-21",
+       "update_user": 1,
+       "hidden": false
+    }
+ },
+  {
+    "model": "landman.state",
+    "pk": 16,
+    "fields": {
+       "country_id": 228,
+       "code": "18",
+       "abbreviation": "IN",
+       "name": "Indiana",
+       "survey": "JEFF",
+       "update_date": "2021-03-21",
+       "update_user": 1,
+       "hidden": false
+    }
+ },
+  {
+    "model": "landman.state",
+    "pk": 17,
+    "fields": {
+       "country_id": 228,
+       "code": "20",
+       "abbreviation": "KS",
+       "name": "Kansas",
+       "survey": "JEFF",
+       "update_date": "2021-03-21",
+       "update_user": 1,
+       "hidden": false
+    }
+ },
+  {
+    "model": "landman.state",
+    "pk": 18,
+    "fields": {
+       "country_id": 228,
+       "code": "21",
+       "abbreviation": "KY",
+       "name": "Kentucky",
+       "survey": "JEFF",
+       "update_date": "2021-03-21",
+       "update_user": 1,
+       "hidden": false
+    }
+ },
+  {
+    "model": "landman.state",
+    "pk": 19,
+    "fields": {
+       "country_id": 228,
+       "code": "22",
+       "abbreviation": "LA",
+       "name": "Louisiana",
+       "survey": "JEFF",
+       "update_date": "2021-03-21",
+       "update_user": 1,
+       "hidden": false
+    }
+ },
+  {
+    "model": "landman.state",
+    "pk": 20,
+    "fields": {
+       "country_id": 228,
+       "code": "25",
+       "abbreviation": "MA",
+       "name": "Massachusetts",
+       "survey": "TAXP",
+       "update_date": "2021-03-21",
+       "update_user": 1,
+       "hidden": false
+    }
+ },
+  {
+    "model": "landman.state",
+    "pk": 21,
+    "fields": {
+       "country_id": 228,
+       "code": "24",
+       "abbreviation": "MD",
+       "name": "Maryland",
+       "survey": "JEFF",
+       "update_date": "2021-03-21",
+       "update_user": 1,
+       "hidden": false
+    }
+ },
+  {
+    "model": "landman.state",
+    "pk": 22,
+    "fields": {
+       "country_id": 228,
+       "code": "23",
+       "abbreviation": "ME",
+       "name": "Maine",
+       "survey": "JEFF",
+       "update_date": "2021-03-21",
+       "update_user": 1,
+       "hidden": false
+    }
+ },
+  {
+    "model": "landman.state",
+    "pk": 23,
+    "fields": {
+       "country_id": 228,
+       "code": "26",
+       "abbreviation": "MI",
+       "name": "Michigan",
+       "survey": "JEFF",
+       "update_date": "2021-03-21",
+       "update_user": 1,
+       "hidden": false
+    }
+ },
+  {
+    "model": "landman.state",
+    "pk": 24,
+    "fields": {
+       "country_id": 228,
+       "code": "27",
+       "abbreviation": "MN",
+       "name": "Minnesota",
+       "survey": "JEFF",
+       "update_date": "2021-03-21",
+       "update_user": 1,
+       "hidden": false
+    }
+ },
+  {
+    "model": "landman.state",
+    "pk": 25,
+    "fields": {
+       "country_id": 228,
+       "code": "29",
+       "abbreviation": "MO",
+       "name": "Missouri",
+       "survey": "JEFF",
+       "update_date": "2021-03-21",
+       "update_user": 1,
+       "hidden": false
+    }
+ },
+  {
+    "model": "landman.state",
+    "pk": 26,
+    "fields": {
+       "country_id": 228,
+       "code": "28",
+       "abbreviation": "MS",
+       "name": "Mississippi",
+       "survey": "JEFF",
+       "update_date": "2021-03-21",
+       "update_user": 1,
+       "hidden": false
+    }
+ },
+  {
+    "model": "landman.state",
+    "pk": 27,
+    "fields": {
+       "country_id": 228,
+       "code": "30",
+       "abbreviation": "MT",
+       "name": "Montana",
+       "survey": "JEFF",
+       "update_date": "2021-03-21",
+       "update_user": 1,
+       "hidden": false
+    }
+ },
+  {
+    "model": "landman.state",
+    "pk": 28,
+    "fields": {
+       "country_id": 228,
+       "code": "37",
+       "abbreviation": "NC",
+       "name": "North Carolina",
+       "survey": "TAXP",
+       "update_date": "2021-03-21",
+       "update_user": 1,
+       "hidden": false
+    }
+ },
+  {
+    "model": "landman.state",
+    "pk": 29,
+    "fields": {
+       "country_id": 228,
+       "code": "38",
+       "abbreviation": "ND",
+       "name": "North Dakota",
+       "survey": "JEFF",
+       "update_date": "2021-03-21",
+       "update_user": 1,
+       "hidden": false
+    }
+ },
+  {
+    "model": "landman.state",
+    "pk": 30,
+    "fields": {
+       "country_id": 228,
+       "code": "31",
+       "abbreviation": "NE",
+       "name": "Nebraska",
+       "survey": "JEFF",
+       "update_date": "2021-03-21",
+       "update_user": 1,
+       "hidden": false
+    }
+ },
+  {
+    "model": "landman.state",
+    "pk": 31,
+    "fields": {
+       "country_id": 228,
+       "code": "33",
+       "abbreviation": "NH",
+       "name": "New Hampshire",
+       "survey": "TAXP",
+       "update_date": "2021-03-21",
+       "update_user": 1,
+       "hidden": false
+    }
+ },
+  {
+    "model": "landman.state",
+    "pk": 32,
+    "fields": {
+       "country_id": 228,
+       "code": "34",
+       "abbreviation": "NJ",
+       "name": "New Jersey",
+       "survey": "TAXP",
+       "update_date": "2021-03-21",
+       "update_user": 1,
+       "hidden": false
+    }
+ },
+  {
+    "model": "landman.state",
+    "pk": 33,
+    "fields": {
+       "country_id": 228,
+       "code": "35",
+       "abbreviation": "NM",
+       "name": "New Mexico",
+       "survey": "JEFF",
+       "update_date": "2021-03-21",
+       "update_user": 1,
+       "hidden": false
+    }
+ },
+  {
+    "model": "landman.state",
+    "pk": 34,
+    "fields": {
+       "country_id": 228,
+       "code": "32",
+       "abbreviation": "NV",
+       "name": "Nevada",
+       "survey": "JEFF",
+       "update_date": "2021-03-21",
+       "update_user": 1,
+       "hidden": false
+    }
+ },
+  {
+    "model": "landman.state",
+    "pk": 35,
+    "fields": {
+       "country_id": 228,
+       "code": "36",
+       "abbreviation": "NY",
+       "name": "New York",
+       "survey": "TAXP",
+       "update_date": "2021-03-21",
+       "update_user": 1,
+       "hidden": false
+    }
+ },
+  {
+    "model": "landman.state",
+    "pk": 36,
+    "fields": {
+       "country_id": 228,
+       "code": "37",
+       "abbreviation": "OH",
+       "name": "Ohio",
+       "survey": "JEFF",
+       "update_date": "2021-03-21",
+       "update_user": 1,
+       "hidden": false
+    }
+ },
+  {
+    "model": "landman.state",
+    "pk": 37,
+    "fields": {
+       "country_id": 228,
+       "code": "38",
+       "abbreviation": "OK",
+       "name": "Oklahoma",
+       "survey": "JEFF",
+       "update_date": "2021-03-21",
+       "update_user": 1,
+       "hidden": false
+    }
+ },
+  {
+    "model": "landman.state",
+    "pk": 38,
+    "fields": {
+       "country_id": 228,
+       "code": "41",
+       "abbreviation": "OR",
+       "name": "Oregon",
+       "survey": "JEFF",
+       "update_date": "2021-03-21",
+       "update_user": 1,
+       "hidden": false
+    }
+ },
+  {
+    "model": "landman.state",
+    "pk": 39,
+    "fields": {
+       "country_id": 228,
+       "code": "42",
+       "abbreviation": "PA",
+       "name": "Pennsylvania",
+       "survey": "TAXP",
+       "update_date": "2021-03-21",
+       "update_user": 1,
+       "hidden": false
+    }
+ },
+  {
+    "model": "landman.state",
+    "pk": 40,
+    "fields": {
+       "country_id": 228,
+       "code": "72",
+       "abbreviation": "PR",
+       "name": "Puerto Rico",
+       "survey": "JEFF",
+       "update_date": "2021-03-21",
+       "update_user": 1,
+       "hidden": false
+    }
+ },
+  {
+    "model": "landman.state",
+    "pk": 41,
+    "fields": {
+       "country_id": 228,
+       "code": "44",
+       "abbreviation": "RI",
+       "name": "Rhode Island",
+       "survey": "JEFF",
+       "update_date": "2021-03-21",
+       "update_user": 1,
+       "hidden": false
+    }
+ },
+  {
+    "model": "landman.state",
+    "pk": 42,
+    "fields": {
+       "country_id": 228,
+       "code": "45",
+       "abbreviation": "SC",
+       "name": "South Carolina",
+       "survey": "TAXP",
+       "update_date": "2021-03-21",
+       "update_user": 1,
+       "hidden": false
+    }
+ },
+  {
+    "model": "landman.state",
+    "pk": 43,
+    "fields": {
+       "country_id": 228,
+       "code": "46",
+       "abbreviation": "SD",
+       "name": "South Dakota",
+       "survey": "JEFF",
+       "update_date": "2021-03-21",
+       "update_user": 1,
+       "hidden": false
+    }
+ },
+  {
+    "model": "landman.state",
+    "pk": 44,
+    "fields": {
+       "country_id": 228,
+       "code": "47",
+       "abbreviation": "TN",
+       "name": "Tennessee",
+       "survey": "JEFF",
+       "update_date": "2021-03-21",
+       "update_user": 1,
+       "hidden": false
+    }
+ },
+  {
+    "model": "landman.state",
+    "pk": 45,
+    "fields": {
+       "country_id": 228,
+       "code": "48",
+       "abbreviation": "TX",
+       "name": "Texas",
+       "survey": "NONJEF",
+       "update_date": "2021-03-21",
+       "update_user": 1,
+       "hidden": false
+    }
+ },
+  {
+    "model": "landman.state",
+    "pk": 46,
+    "fields": {
+       "country_id": 228,
+       "code": "49",
+       "abbreviation": "UT",
+       "name": "Utah",
+       "survey": "JEFF",
+       "update_date": "2021-03-21",
+       "update_user": 1,
+       "hidden": false
+    }
+ },
+  {
+    "model": "landman.state",
+    "pk": 47,
+    "fields": {
+       "country_id": 228,
+       "code": "51",
+       "abbreviation": "VA",
+       "name": "Virginia",
+       "survey": "TAXP",
+       "update_date": "2021-03-21",
+       "update_user": 1,
+       "hidden": false
+    }
+ },
+  {
+    "model": "landman.state",
+    "pk": 48,
+    "fields": {
+       "country_id": 228,
+       "code": "50",
+       "abbreviation": "VT",
+       "name": "Vermont",
+       "survey": "TAXP",
+       "update_date": "2021-03-21",
+       "update_user": 1,
+       "hidden": false
+    }
+ },
+  {
+    "model": "landman.state",
+    "pk": 49,
+    "fields": {
+       "country_id": 228,
+       "code": "53",
+       "abbreviation": "WA",
+       "name": "Washington",
+       "survey": "JEFF",
+       "update_date": "2021-03-21",
+       "update_user": 1,
+       "hidden": false
+    }
+ },
+  {
+    "model": "landman.state",
+    "pk": 50,
+    "fields": {
+       "country_id": 228,
+       "code": "55",
+       "abbreviation": "WI",
+       "name": "Wisconsin",
+       "survey": "JEFF",
+       "update_date": "2021-03-21",
+       "update_user": 1,
+       "hidden": false
+    }
+ },
+  {
+    "model": "landman.state",
+    "pk": 51,
+    "fields": {
+       "country_id": 228,
+       "code": "54",
+       "abbreviation": "WV",
+       "name": "West Virginia",
+       "survey": "JEFF",
+       "update_date": "2021-03-21",
+       "update_user": 1,
+       "hidden": false
+    }
+ },
+  {
+    "model": "landman.state",
+    "pk": 52,
+    "fields": {
+       "country_id": 228,
+       "code": "56",
+       "abbreviation": "WY",
+       "name": "Wyoming",
+       "survey": "JEFF",
+       "update_date": "2021-03-21",
+       "update_user": 1,
+       "hidden": false
+    }
+ },
+  {
+    "model": "landman.state",
+    "pk": 53,
+    "fields": {
+       "country_id": 36,
+       "code": "48",
+       "abbreviation": "AB",
+       "name": "Alberta",
+       "survey": "NTS",
+       "update_date": "2021-03-21",
+       "update_user": 1,
+       "hidden": false
+    }
+ },
+  {
+    "model": "landman.state",
+    "pk": 54,
+    "fields": {
+       "country_id": 36,
+       "code": "59",
+       "abbreviation": "BC",
+       "name": "British Columbia",
+       "survey": "DLS",
+       "update_date": "2021-03-21",
+       "update_user": 1,
+       "hidden": false
+    }
+ },
+  {
+    "model": "landman.state",
+    "pk": 55,
+    "fields": {
+       "country_id": 36,
+       "code": "46",
+       "abbreviation": "MB",
+       "name": "Manitoba",
+       "survey": "NTS",
+       "update_date": "2021-03-21",
+       "update_user": 1,
+       "hidden": false
+    }
+ },
+  {
+    "model": "landman.state",
+    "pk": 56,
+    "fields": {
+       "country_id": 36,
+       "code": "13",
+       "abbreviation": "NB",
+       "name": "New Brunswick",
+       "survey": "NTS",
+       "update_date": "2021-03-21",
+       "update_user": 1,
+       "hidden": false
+    }
+ },
+  {
+    "model": "landman.state",
+    "pk": 57,
+    "fields": {
+       "country_id": 36,
+       "code": "10",
+       "abbreviation": "NL",
+       "name": "Newfoundland and Labrador",
+       "survey": "NTS",
+       "update_date": "2021-03-21",
+       "update_user": 1,
+       "hidden": false
+    }
+ },
+  {
+    "model": "landman.state",
+    "pk": 58,
+    "fields": {
+       "country_id": 36,
+       "code": "61",
+       "abbreviation": "NT",
+       "name": "Northwest Territories",
+       "survey": "FPS",
+       "update_date": "2021-03-21",
+       "update_user": 1,
+       "hidden": false
+    }
+ },
+  {
+    "model": "landman.state",
+    "pk": 59,
+    "fields": {
+       "country_id": 36,
+       "code": "12",
+       "abbreviation": "NS",
+       "name": "Nova Scotia",
+       "survey": "NTS",
+       "update_date": "2021-03-21",
+       "update_user": 1,
+       "hidden": false
+    }
+ },
+  {
+    "model": "landman.state",
+    "pk": 60,
+    "fields": {
+       "country_id": 36,
+       "code": "62",
+       "abbreviation": "NU",
+       "name": "Nunavut",
+       "survey": "FPS",
+       "update_date": "2021-03-21",
+       "update_user": 1,
+       "hidden": false
+    }
+ },
+  {
+    "model": "landman.state",
+    "pk": 61,
+    "fields": {
+       "country_id": 36,
+       "code": "35",
+       "abbreviation": "ON",
+       "name": "Ontario",
+       "survey": "NTS",
+       "update_date": "2021-03-21",
+       "update_user": 1,
+       "hidden": false
+    }
+ },
+  {
+    "model": "landman.state",
+    "pk": 62,
+    "fields": {
+       "country_id": 36,
+       "code": "11",
+       "abbreviation": "PE",
+       "name": "Prince Edward Island",
+       "survey": "NTS",
+       "update_date": "2021-03-21",
+       "update_user": 1,
+       "hidden": false
+    }
+ },
+  {
+    "model": "landman.state",
+    "pk": 63,
+    "fields": {
+       "country_id": 36,
+       "code": "24",
+       "abbreviation": "QC",
+       "name": "Quebec",
+       "survey": "NTS",
+       "update_date": "2021-03-21",
+       "update_user": 1,
+       "hidden": false
+    }
+ },
+  {
+    "model": "landman.state",
+    "pk": 64,
+    "fields": {
+       "country_id": 36,
+       "code": "47",
+       "abbreviation": "SK",
+       "name": "Saskatchewan",
+       "survey": "NTS",
+       "update_date": "2021-03-21",
+       "update_user": 1,
+       "hidden": false
+    }
+ },
+  {
+    "model": "landman.state",
+    "pk": 65,
+    "fields": {
+       "country_id": 36,
+       "code": "60",
+       "abbreviation": "YT",
+       "name": "Yukon",
+       "survey": "NTS",
+       "update_date": "2021-03-21",
+       "update_user": 1,
+       "hidden": false
+    }
+ }
+ ]

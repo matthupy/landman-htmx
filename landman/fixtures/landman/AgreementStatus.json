@@ -1,0 +1,23 @@
+[
+  {
+    "model": "landman.agreementstatus",
+    "pk": "A",
+    "fields": {
+      "description": "Active"
+    }
+  },
+  {
+    "model": "landman.agreementstatus",
+    "pk": "IN",
+    "fields": {
+      "description": "Inactive"
+    }
+  },
+  {
+    "model": "landman.agreementstatus",
+    "pk": "INR",
+    "fields": {
+      "description": "Inactive and Reported"
+    }
+  }
+]

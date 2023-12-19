@@ -8,6 +8,12 @@ asgiref==3.6
     # via django
 django==4.1.3
     # via -r requirements.in
+django-admin-list-filter-dropdown
+    # https://django-baton.readthedocs.io/en/stable/list_filters.html
+django-simple-history
+    # https://django-simple-history.readthedocs.io/en/latest/
+django-smart-selects
+    # https://django-smart-selects.readthedocs.io/en/latest/
 faker==15.3.1
     # via -r requirements.in
 python-dateutil==2.8.2

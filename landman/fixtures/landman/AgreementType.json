@@ -1,0 +1,18 @@
+[
+  {
+    "model": "landman.agreementtype",
+    "pk": "LSE",
+    "fields": {
+      "category": "LSE",
+      "description": "Lease - Oil and Gas"
+    }
+  },
+  {
+    "model": "landman.agreementtype",
+    "pk": "ROW",
+    "fields": {
+      "category": "CTR",
+      "description": "Right of Way"
+    }
+  }
+]

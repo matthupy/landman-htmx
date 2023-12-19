@@ -1,0 +1,17 @@
+[
+  {
+    "model": "landman.projectstatus",
+    "pk": "A",
+    "fields": {
+      "description": "Active"
+    }
+  },
+  {
+    "model": "landman.projectstatus",
+    "pk": "IN",
+    "fields": {
+      "description": "Inactive"
+    }
+  }
+  ]
+  

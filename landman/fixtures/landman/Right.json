@@ -1,0 +1,23 @@
+[
+{
+  "model": "landman.right",
+  "pk": "OGM",
+  "fields": {
+    "description": "Oil, Gas, and Minerals"
+  }
+},
+{
+  "model": "landman.right",
+  "pk": "ONG",
+  "fields": {
+    "description": "Oil and Gas"
+  }
+},
+{
+  "model": "landman.right",
+  "pk": "SUR",
+  "fields": {
+    "description": "Surface"
+  }
+}
+]

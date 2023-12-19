@@ -1,0 +1,30 @@
+[
+{
+  "model": "landman.unit",
+  "pk": "ACR",
+  "fields": {
+    "description": "Acres"
+  }
+},
+{
+  "model": "landman.unit",
+  "pk": "FT3",
+  "fields": {
+    "description": "Cubic Feet"
+  }
+},
+{
+  "model": "landman.unit",
+  "pk": "HAR",
+  "fields": {
+    "description": "Hectares"
+  }
+},
+{
+  "model": "landman.unit",
+  "pk": "M3",
+  "fields": {
+    "description": "Cubic Meters"
+  }
+}
+]

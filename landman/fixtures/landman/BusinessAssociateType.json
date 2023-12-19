@@ -1,0 +1,87 @@
+[
+  {
+    "model": "landman.businessassociatetype",
+    "pk": "AGY",
+    "fields": {
+      "description": "Agency"
+    }
+  },
+  {
+    "model": "landman.businessassociatetype",
+    "pk": "COM",
+    "fields": {
+      "description": "Company"
+    }
+  },
+  {
+    "model": "landman.businessassociatetype",
+    "pk": "CPR",
+    "fields": {
+      "description": "Corporation"
+    }
+  },
+  {
+    "model": "landman.businessassociatetype",
+    "pk": "CWN",
+    "fields": {
+      "description": "Crown"
+    }
+  },
+  {
+    "model": "landman.businessassociatetype",
+    "pk": "EST",
+    "fields": {
+      "description": "Estate"
+    }
+  },
+  {
+    "model": "landman.businessassociatetype",
+    "pk": "FI",
+    "fields": {
+      "description": "Financial Institution"
+    }
+  },
+  {
+    "model": "landman.businessassociatetype",
+    "pk": "IND",
+    "fields": {
+      "description": "Individual"
+    }
+  },
+  {
+    "model": "landman.businessassociatetype",
+    "pk": "MDS",
+    "fields": {
+      "description": "Midstream"
+    }
+  },
+  {
+    "model": "landman.businessassociatetype",
+    "pk": "ORG",
+    "fields": {
+      "description": "Organization"
+    }
+  },
+  {
+    "model": "landman.businessassociatetype",
+    "pk": "PRT",
+    "fields": {
+      "description": "Partnership"
+    }
+  },
+  {
+    "model": "landman.businessassociatetype",
+    "pk": "SHP",
+    "fields": {
+      "description": "Shipper"
+    }
+  },
+  {
+    "model": "landman.businessassociatetype",
+    "pk": "TRU",
+    "fields": {
+      "description": "Trust"
+    }
+  }
+  ]
+  

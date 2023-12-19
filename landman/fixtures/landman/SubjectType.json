@@ -1,0 +1,16 @@
+[
+{
+  "model": "landman.subjecttype",
+  "pk": "CTR",
+  "fields": {
+    "description": "Contract"
+  }
+},
+{
+  "model": "landman.subjecttype",
+  "pk": "LSE",
+  "fields": {
+    "description": "Lease"
+  }
+}
+]

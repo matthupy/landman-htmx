@@ -1,0 +1,90 @@
+[
+{
+  "model": "landman.wellstatus",
+  "pk": 1,
+  "fields": {
+    "code": "ACT",
+    "description": "Active"
+  }
+},
+{
+  "model": "landman.wellstatus",
+  "pk": 2,
+  "fields": {
+    "code": "SHT",
+    "description": "Shut-In"
+  }
+},
+{
+  "model": "landman.wellstatus",
+  "pk": 3,
+  "fields": {
+    "code": "SUS",
+    "description": "Suspended"
+  }
+},
+{
+  "model": "landman.wellstatus",
+  "pk": 4,
+  "fields": {
+    "code": "ABD",
+    "description": "Abandoned"
+  }
+},
+{
+  "model": "landman.wellstatus",
+  "pk": 5,
+  "fields": {
+    "code": "CAP",
+    "description": "Capped"
+  }
+},
+{
+  "model": "landman.wellstatus",
+  "pk": 6,
+  "fields": {
+    "code": "NOT",
+    "description": "Not Drilled"
+  }
+},
+{
+  "model": "landman.wellstatus",
+  "pk": 7,
+  "fields": {
+    "code": "CNC",
+    "description": "Cancelled"
+  }
+},
+{
+  "model": "landman.wellstatus",
+  "pk": 8,
+  "fields": {
+    "code": "UNK",
+    "description": "Unknown"
+  }
+},
+{
+  "model": "landman.wellstatus",
+  "pk": 9,
+  "fields": {
+    "code": "NON",
+    "description": "No Well Found"
+  }
+},
+{
+  "model": "landman.wellstatus",
+  "pk": 10,
+  "fields": {
+    "code": "JNK",
+    "description": "Abandoned & Junked"
+  }
+},
+{
+  "model": "landman.wellstatus",
+  "pk": 11,
+  "fields": {
+    "code": "WHP",
+    "description": "Abandoned & Whipstocked"
+  }
+}
+]

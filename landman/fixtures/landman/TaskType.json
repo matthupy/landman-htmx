@@ -1,0 +1,10 @@
+[
+  {
+    "model": "landman.tasktype",
+    "pk": "RSH",
+    "fields": {
+      "description": "Research"
+    }
+  }
+  ]
+  

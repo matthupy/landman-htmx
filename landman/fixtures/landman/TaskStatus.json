@@ -1,0 +1,17 @@
+[
+  {
+    "model": "landman.taskstatus",
+    "pk": "A",
+    "fields": {
+      "description": "Active"
+    }
+  },
+  {
+    "model": "landman.taskstatus",
+    "pk": "IN",
+    "fields": {
+      "description": "Inactive"
+    }
+  }
+  ]
+  

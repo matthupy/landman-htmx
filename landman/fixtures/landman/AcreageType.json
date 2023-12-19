@@ -1,0 +1,30 @@
+[
+  {
+    "model": "landman.acreagetype",
+    "pk": "COG",
+    "fields": {
+      "description": "Co-Gross Acres"
+    }
+  },
+  {
+    "model": "landman.acreagetype",
+    "pk": "CON",
+    "fields": {
+      "description": "Co-Net Acres"
+    }
+  },
+  {
+    "model": "landman.acreagetype",
+    "pk": "GRS",
+    "fields": {
+      "description": "Gross Acres"
+    }
+  },
+  {
+    "model": "landman.acreagetype",
+    "pk": "NET",
+    "fields": {
+      "description": "Net Acres"
+    }
+  }
+]

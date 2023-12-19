@@ -14,19 +14,46 @@ SECRET_KEY = ")w%-67b9lurhzs*o2ow(e=n_^(n2!0_f*2+g+1*9tcn6_k58(f"
 ALLOWED_HOSTS = ["*"]
 
 INSTALLED_APPS = [
-    "landman",
-    "django_htmx",
-    "django.contrib.staticfiles",
+    'django_htmx',
+    'django.contrib.admin',
+    'django.contrib.auth',
+    'django.contrib.contenttypes',
+    'django.contrib.messages',
+    'django.contrib.sessions',
+    'django.contrib.staticfiles',
+
+    'django_admin_listfilter_dropdown',
+    'simple_history',
+    'smart_selects',
+
+    'landman',
 ]
 
 MIDDLEWARE = [
-    "django.middleware.csrf.CsrfViewMiddleware",
-    "django_htmx.middleware.HtmxMiddleware",
+    'django.contrib.sessions.middleware.SessionMiddleware',
+
+    'django.contrib.auth.middleware.AuthenticationMiddleware',
+    'django.contrib.messages.middleware.MessageMiddleware',
+    'django.middleware.clickjacking.XFrameOptionsMiddleware',
+    'django.middleware.common.CommonMiddleware',
+    'django.middleware.csrf.CsrfViewMiddleware',
+    'django.middleware.security.SecurityMiddleware',
+
+    'django_htmx.middleware.HtmxMiddleware',
+
+    'simple_history.middleware.HistoryRequestMiddleware',
 ]
 
 ROOT_URLCONF = "landman.urls"
 
-DATABASES: dict[str, dict[str, Any]] = {}
+DATABASES = {
+    'default': {
+        'ENGINE': 'django.db.backends.sqlite3',
+        'NAME': os.path.join(BASE_DIR, 'db.sqlite3'),
+    }
+}
+
+# DATABASES: dict[str, dict[str, Any]] = {}
 
 TEMPLATES = [
     {
@@ -35,8 +62,11 @@ TEMPLATES = [
         "APP_DIRS": True,
         "OPTIONS": {
             "context_processors": [
-                "django.template.context_processors.request",
-                "landman.context_processors.debug",
+                'landman.context_processors.debug',
+                'django.template.context_processors.debug',
+                'django.template.context_processors.request',
+                'django.contrib.auth.context_processors.auth',
+                'django.contrib.messages.context_processors.messages',
             ]
         },
     }

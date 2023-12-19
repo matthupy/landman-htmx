@@ -14,6 +14,7 @@ from faker import Faker
 
 from django_htmx.middleware import HtmxDetails
 from landman.forms import OddNumberForm
+from landman.models import Country
 
 
 # Typing pattern recommended by django-stubs:
@@ -36,6 +37,32 @@ def favicon(request: HtmxHttpRequest) -> HttpResponse:
             + "</svg>"
         ),
         content_type="image/svg+xml",
+    )
+
+# Countries Demo
+
+@require_GET
+def countries(request: HtmxHttpRequest) -> HttpResponse:
+    # Standard Django pagination
+    page_num = request.GET.get("page", "1")
+    countries = Country.objects.all()
+    page = Paginator(object_list=countries, per_page=10).get_page(page_num)
+
+    # The htmx magic - use a different, minimal base template for htmx
+    # requests, allowing us to skip rendering the unchanging parts of the
+    # template.
+    if request.htmx:
+        base_template = "_partial.html"
+    else:
+        base_template = "_base.html"
+
+    return render(
+        request,
+        "partial-rendering.html",
+        {
+            "base_template": base_template,
+            "page": page,
+        },
     )
 
 

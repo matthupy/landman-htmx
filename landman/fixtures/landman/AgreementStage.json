@@ -1,0 +1,188 @@
+[{
+    "model": "landman.agreementstage",
+    "pk": "APV",
+    "fields": {
+        "description": "Approved",
+        "index": 50
+    }
+},
+{
+    "model": "landman.agreementstage",
+    "pk": "IP",
+    "fields": {
+        "description": "In Progress",
+        "index": 20
+    }
+},
+{
+    "model": "landman.agreementstage",
+    "pk": "NEW",
+    "fields": {
+        "description": "New",
+        "index": 10
+    }
+},
+{
+    "model": "landman.agreementstage",
+    "pk": "NONE",
+    "fields": {
+        "description": "None",
+        "index": 0
+    }
+},
+{
+    "model": "landman.agreementstage",
+    "pk": "PNDAPV",
+    "fields": {
+        "description": "Pending Approval",
+        "index": 30
+    }
+},
+{
+    "model": "landman.agreementstage",
+    "pk": "REJ",
+    "fields": {
+        "description": "Rejected",
+        "index": 45
+    }
+},
+{
+    "model": "landman.agreementstage",
+    "pk": "APV",
+    "fields": {
+        "description": "Approved",
+        "index": 50
+    }
+},
+{
+    "model": "landman.agreementstage",
+    "pk": "IP",
+    "fields": {
+        "description": "In Progress",
+        "index": 20
+    }
+},
+{
+    "model": "landman.agreementstage",
+    "pk": "NEW",
+    "fields": {
+        "description": "New",
+        "index": 10
+    }
+},
+{
+    "model": "landman.agreementstage",
+    "pk": "NONE",
+    "fields": {
+        "description": "None",
+        "index": 0
+    }
+},
+{
+    "model": "landman.agreementstage",
+    "pk": "PNDAPV",
+    "fields": {
+        "description": "Pending Approval",
+        "index": 30
+    }
+},
+{
+    "model": "landman.agreementstage",
+    "pk": "REJ",
+    "fields": {
+        "description": "Rejected",
+        "index": 45
+    }
+},
+{
+    "model": "landman.agreementstage",
+    "pk": "APV",
+    "fields": {
+        "description": "Approved",
+        "index": 50
+    }
+},
+{
+    "model": "landman.agreementstage",
+    "pk": "IP",
+    "fields": {
+        "description": "In Progress",
+        "index": 20
+    }
+},
+{
+    "model": "landman.agreementstage",
+    "pk": "NEW",
+    "fields": {
+        "description": "New",
+        "index": 10
+    }
+},
+{
+    "model": "landman.agreementstage",
+    "pk": "NONE",
+    "fields": {
+        "description": "None",
+        "index": 0
+    }
+},
+{
+    "model": "landman.agreementstage",
+    "pk": "PNDAPV",
+    "fields": {
+        "description": "Pending Approval",
+        "index": 30
+    }
+},
+{
+    "model": "landman.agreementstage",
+    "pk": "REJ",
+    "fields": {
+        "description": "Rejected",
+        "index": 45
+    }
+},
+{
+    "model": "landman.agreementstage",
+    "pk": "APV",
+    "fields": {
+        "description": "Approved",
+        "index": 50
+    }
+}, {
+    "model": "landman.agreementstage",
+    "pk": "IP",
+    "fields": {
+        "description": "In Progress",
+        "index": 20
+    }
+}, {
+    "model": "landman.agreementstage",
+    "pk": "NEW",
+    "fields": {
+        "description": "New",
+        "index": 10
+    }
+}, {
+    "model": "landman.agreementstage",
+    "pk": "NONE",
+    "fields": {
+        "description": "None",
+        "index": 0
+    }
+}, {
+    "model": "landman.agreementstage",
+    "pk": "PNDAPV",
+    "fields": {
+        "description": "Pending Approval",
+        "index": 30
+    }
+}, {
+    "model": "landman.agreementstage",
+    "pk": "REJ",
+    "fields": {
+        "description": "Rejected",
+        "index": 45
+    }
+}
+]
